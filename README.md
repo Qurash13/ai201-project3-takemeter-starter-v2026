@@ -168,8 +168,8 @@ Say so plainly — the disclosure is required, not penalised. -->
 Claude pre-labelled every row using my definitions. The `note` column says
 so on each one. For the 20 `cold` rows, Claude labelled 20 random rows again
 without seeing the first labels. It matched itself 20/20. That only shows
-the rules are consistent for one labeller. It's not a second person. Then I
-read every row and checked its label myself.
+the rules are consistent for one labeller. It's not a second person.
+**I reviewed and approved every label in the dataset.**
 
 **Counts per label:**
 
