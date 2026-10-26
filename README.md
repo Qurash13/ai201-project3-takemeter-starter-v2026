@@ -290,10 +290,16 @@ I'll dig into why next unit.
 
 | Measure | Baseline | Trained | Difference |
 |---|---|---|---|
-| Overall accuracy |  |  |  |
-| Macro F1 |  |  |  |
-| F1 — `label_one` |  |  |  |
-| F1 — `label_two` |  |  |  |
+| Overall accuracy | 0.326 | 0.465 | +0.140 |
+| Macro F1 | 0.273 | 0.159 | -0.114 |
+| F1 — `evidenced` | 0.368 | 0.000 | -0.368 |
+| F1 — `opinion` | 0.091 | 0.635 | +0.544 |
+| F1 — `question` | 0.632 | 0.000 | -0.632 |
+| F1 — `quip` | 0.000 | 0.000 | +0.000 |
+
+Both models were scored on the same 43 posts in `test_split.csv`. The
+baseline is `facebook/bart-large-mnli`, zero-shot, using my
+`label_definitions.txt`. The trained model is the seed-42 run from unit 5.
 
 **What I predicted before I looked:**
 <!-- Milestone 1 asks you to write this BEFORE seeing the trained numbers. A
@@ -308,6 +314,17 @@ in unit 5 it mostly guessed `opinion`. I think the baseline will do better on
 <!-- If the baseline matched your trained model, your fine-tuning added
      nothing — and that is a real finding, not a failure. Say it plainly. -->
 
+My prediction was right. My trained model only "wins" on accuracy because it
+calls almost everything `opinion`, and `opinion` is about half the test set.
+On macro F1 the baseline is better: it actually finds `question` (0.63) and
+some `evidenced` (0.37), and my model finds neither. So in this run my
+fine-tuning added nothing useful. It learned "guess the biggest label".
+
+**Definitions vs. bare label names:** I also ran the baseline with no
+definitions, just the label names. It scored **0.395** accuracy and 0.363
+macro F1. That's better than with my definitions (0.326 / 0.273). My long
+definitions seem to confuse the zero-shot model, mostly on `opinion`. The
+version reported in the table above is the one with definitions.
 
 
 ---
@@ -381,7 +398,7 @@ in unit 5 it mostly guessed `opinion`. I think the baseline will do better on
      data/staff_taxonomy.md, not your own — so every argument below is made
      from those definitions and those decision rules. -->
 
-**Agreement rate:** ___ / 30 = ___%
+**Agreement rate:** 30 / 30 = 100%
 
 <!-- Nobody grades this number. A 60% who argues every disagreement from the
      stated rules beats a 95% who wrote "staff was right" nine times. Several
@@ -403,25 +420,28 @@ in unit 5 it mostly guessed `opinion`. I think the baseline will do better on
      written rule two different ways on 30 posts, that is direct evidence about
      what you did across your own 200. -->
 
-**1.**
-> *The post:*
->
-> *Staff said / I said:*
->
-> *My call, and why:*
->
-> *Which pile:*
+I had no disagreements. I labelled all 30 myself under the staff taxonomy
+and matched staff on every post, including all 9 that staff marked as hard.
 
-**2.**
-> *The post:*
->
-> *Staff said / I said:*
->
-> *My call, and why:*
->
-> *Which pile:*
+The hard ones I had to think about most:
+- **sp_005** (carbon plates, then two numbers): I went `analysis`. The
+  second sentence's numbers carry the argument (rule 1).
+- **sp_014** ("Times are down about 3%... so obviously the shoes"): I went
+  `hot_take`. The 3% is decoration on a conclusion already reached (rule 1).
+- **sp_020** ("Every injury thread is the same injury"): I went `hot_take`.
+  It could be checked in theory, but no count is given.
+- **sp_028** ("Third DNF this year"): I went `reaction`. The number isn't used
+  to argue anything (rule 3).
 
 **What the pattern in my disagreements tells me:**
+
+With no disagreements, there's no (a), (b) or (c) pile to sort. I think the
+staff rules are just very tight: each hard post had one rule that clearly
+decided it. This set also has three labels split 10/10/10 with clean
+examples. That's easier than my HN data, where `opinion` vs. `evidenced` and
+`opinion` vs. `quip` are much blurrier. So 100% here doesn't prove my own
+286 labels are consistent. It only shows I can follow a written rule the way
+its authors did.
 
 
 
