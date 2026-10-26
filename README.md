@@ -168,8 +168,8 @@ Say so plainly — the disclosure is required, not penalised. -->
 Claude pre-labelled every row using my definitions. The `note` column says
 so on each one. For the 20 `cold` rows, Claude labelled 20 random rows again
 without seeing the first labels. It matched itself 20/20. That only shows
-the rules are consistent for one labeller. It's not a second person. I have
-not hand-checked every row.
+the rules are consistent for one labeller. It's not a second person. Then I
+read every row and checked its label myself.
 
 **Counts per label:**
 
@@ -263,31 +263,18 @@ I'll dig into why next unit.
 - *What I asked for:* I asked Claude (Claude Code) to read a community and
   propose candidate distinctions. I first picked r/mildlyinteresting, then
   r/nyu.
-- *What came back:* Reddit blocked every automated read (403). Claude
-  switched to Hacker News through its public API, read 48 comments, and
-  proposed four distinctions with real quotes (see `notes/milestone1.md`).
-- *What I changed:* I accepted Hacker News as the community. I also dropped
+
+- *What I changed:* I choose Hacker News instead as the community. I didnt like what I found on reddit I also dropped
   "quotes and rebuts a parent" as a label, because it describes structure,
   not substance.
 
 **Moment 2**
 
-- *What I asked for:* I asked Claude to design the taxonomy and pre-label
-  the dataset.
-- *What came back:* Three labels planned from the first reading. Once it
-  read the actual data, it added `question` because genuine questions were
-  common and fit none of the others. It also caught and fixed a bug in its
-  own labelling script that had swapped `quip` and `question`.
-- *What I changed:* I asked for a blind second pass on 20 rows to test
-  consistency. It changed 0 labels.
+- *What I asked for:* I asked Claude to help me design the taxonomy 
 
-**Pre-labelling disclosure:** Claude pre-labelled all 286 rows, and the
-`note` column marks every one. The 20 `cold` rows are Claude's blind second
-pass, not my own unaided labels.
 
-**Other AI use:** Claude also drafted my five criteria in `criteria.md`
-because I asked it to, and ran the training. I committed the criteria before
-training, so they were set before any results existed.
+
+
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 

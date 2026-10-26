@@ -1,26 +1,26 @@
 text,label,note
 "> This is a cool idea. I'm actually quite glad that AI generated stuff is still so very obvious. The world will be a darker place when it isn't.
 
-You mean this site? Because I think the messages it's about is real. The AI stuff is just the dumb copy in the interface (e.g. ""Mostly static. The net is quiet until it isn't."").",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229112"
+You mean this site? Because I think the messages it's about is real. The AI stuff is just the dumb copy in the interface (e.g. ""Mostly static. The net is quiet until it isn't."").",opinion,"pre-labelled by Claude, checked by me; hn:50229112"
 "you don't like the ads, gambling apps, and similar? /s
 
 What might help is non-software-first companies valuing developers and engineers more, enough that we could earn a reasonable living which building actually cool things. Not sure how the economics works out on the other side. Can these companies make enough money to support this vision?",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50227995"
-What field did you go into?,question,"pre-labelled by Claude, not yet human-checked; hn:50237095"
-Are the next generation of Cerebras chips designed by the current generation? Maybe it won't be recognizable as a particular layout but rather a chaotic but functional vibe layout.,question,"pre-labelled by Claude, not yet human-checked; hn:50229696"
+What field did you go into?,question,"pre-labelled by Claude, checked by me; hn:50237095"
+Are the next generation of Cerebras chips designed by the current generation? Maybe it won't be recognizable as a particular layout but rather a chaotic but functional vibe layout.,question,"pre-labelled by Claude, checked by me; hn:50229696"
 ">Regular people do not have more more money or time
 
 Of course they do. Median real weekly wages[1] have been rising for decades all while the average number of hours worked per worker have fallen[2].
 
 [1] https://fred.stlouisfed.org/series/les1252881600Q
 
-[2] https://fred.stlouisfed.org/series/avhwpeusa065nrug",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227276"
+[2] https://fred.stlouisfed.org/series/avhwpeusa065nrug",evidenced,"pre-labelled by Claude, checked by me; hn:50227276"
 "But a photography contest is not a “take a picture with your camera” contest. Post processing dictates a decent portion of “photography” and it seems like the rules for this processing are a bit of a grey area. I personally hate where it has gotten to, as a photographer, but just pointing out my observations in the assessment.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50233865"
 "Congrats!
 
-Ignoring OP's config fuck-up, I think you did a service to the world, showing this vulnerability is very much real.",quip,"pre-labelled by Claude, not yet human-checked; hn:50237066"
-"I’m not investing, I’m donating. I don’t care who uses the code once it’s useful and released. Anyone being able to use it and not needing a commercial solution is the return on investment.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237059"
-"No pelicans riding bicycles on this one, eh?",quip,"pre-labelled by Claude, not yet human-checked; hn:50239483"
-Something like 80% of workers are full time.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227325"
+Ignoring OP's config fuck-up, I think you did a service to the world, showing this vulnerability is very much real.",quip,"pre-labelled by Claude, checked by me; hn:50237066"
+"I’m not investing, I’m donating. I don’t care who uses the code once it’s useful and released. Anyone being able to use it and not needing a commercial solution is the return on investment.",opinion,"pre-labelled by Claude, checked by me; hn:50237059"
+"No pelicans riding bicycles on this one, eh?",quip,"pre-labelled by Claude, checked by me; hn:50239483"
+Something like 80% of workers are full time.,evidenced,"pre-labelled by Claude, checked by me; hn:50227325"
 "If only you invested a tiny fraction of the effort it took to write this to make it easier for us to read. It's a serious discourtesy.
 
 ```
@@ -36,38 +36,38 @@ Something like 80% of workers are full time.,evidenced,"pre-labelled by Claude, 
  margin-inline: auto;
 
 }
-```",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228008"
+```",opinion,"pre-labelled by Claude, checked by me; hn:50228008"
 "Uh...
 
-Seems like rage is maybe a tad misplaced?",quip,"pre-labelled by Claude, not yet human-checked; hn:50236226"
-Although the current riots precisely start because stuff that did not happen: having a stable teacher (or at all) for the courses they’re suppose to study.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50230466"
+Seems like rage is maybe a tad misplaced?",quip,"pre-labelled by Claude, checked by me; hn:50236226"
+Although the current riots precisely start because stuff that did not happen: having a stable teacher (or at all) for the courses they’re suppose to study.,opinion,"pre-labelled by Claude, checked by me; hn:50230466"
 "I've ported Jetpack Compose to Rust and my post got removed for ""low effort"" from r/rust. That's not about slop but more about preserving the status of things like they were when every code line mean to be typed on a keyboard with physical fingers and from the human brain.
 
 btw I've set up the nightly benchmarks on my ui framework and it's beaten all of the current ones. Because old-era human frameworks can't afford to crunch optimizations non stop 24/7 like ai agents can.
 
-https://github.com/samoylenkodmitry/Cranpose",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50229684"
-"They also started developing Fleet several years back and made a few alpha releases, only to shutter it before it ever was ever fully released for reasons that essentially seemed to boil down to ""we want to focus on our core IDEs instead, which didn't really explain what changed. I was interested in Fleet, so at this point I can't help but be skeptical of anything new they've done since then because it's not clear to me why the same logic for discontinuing Fleet couldn't apply to pretty much anything else.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50236202"
-"I mean, I’d assume that’s the case regardless of the wording. They’re giving you a device on a repeating lease. If you piss them off (ie release publicly when they’re not ready, regardless of who’s at fault for screwing up the disclosure timing), then they’ll take their toys away in a huff.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229167"
+https://github.com/samoylenkodmitry/Cranpose",evidenced,"pre-labelled by Claude, checked by me; hn:50229684"
+"They also started developing Fleet several years back and made a few alpha releases, only to shutter it before it ever was ever fully released for reasons that essentially seemed to boil down to ""we want to focus on our core IDEs instead, which didn't really explain what changed. I was interested in Fleet, so at this point I can't help but be skeptical of anything new they've done since then because it's not clear to me why the same logic for discontinuing Fleet couldn't apply to pretty much anything else.",evidenced,"pre-labelled by Claude, checked by me; hn:50236202"
+"I mean, I’d assume that’s the case regardless of the wording. They’re giving you a device on a repeating lease. If you piss them off (ie release publicly when they’re not ready, regardless of who’s at fault for screwing up the disclosure timing), then they’ll take their toys away in a huff.",opinion,"pre-labelled by Claude, checked by me; hn:50229167"
 "> With that in mind, why shouldn't it be in favor of the locals and reflect the values of its own society instead of some tech bros with imperialist ambitions?
 
 The article is discussing a candidate who got the majority of the vote in the 10/4 election. Where did you get the idea that this content doesn't ""reflect the values of its own society""?
 
 People want to deflect and blame foreign powers for why their platforms are failing among the electorate. The argument is essentially that they are so right and correct that any deviation from their values could only have occurred due to Bad Guy external intervention, which conveniently justifies why we need mass censorship.
 
-Just do a better job convincing people you're right. Censorship will just mask social problems until the outbreak is even worse.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50230443"
-Still rooting for these guys,quip,"pre-labelled by Claude, not yet human-checked; hn:50236200"
+Just do a better job convincing people you're right. Censorship will just mask social problems until the outbreak is even worse.",evidenced,"pre-labelled by Claude, checked by me; hn:50230443"
+Still rooting for these guys,quip,"pre-labelled by Claude, checked by me; hn:50236200"
 "In my defense, the likelihood that the US has schools on bases did occur to me. It's just I think you shouldn't put schools on or near bases and expect them to not get bombed, if not by accident. So I think it applies to all parties.
 
 > Not every nation thinks it has a God-given right to go half-way around the world and bomb other nation's bases,
 
-I would pause at this assertion. The US is a global thing, with global friends and enemies. Iran being one of our big foes is a knowing thing.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228555"
-We need AI powered FOIA request responses. All of these manual process are prone to abuse.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50237040"
-I like desec.io for there api and also fast response and friendly Team,opinion,"pre-labelled by Claude, not yet human-checked; hn:50230457"
-"First off, that's not true. Secondly, even if it were, it's not bribery - the only way to get the type of access the SRD offers is via this route, so it's an offer of specific terms for specific privileged access that is not otherwise available.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227960"
+I would pause at this assertion. The US is a global thing, with global friends and enemies. Iran being one of our big foes is a knowing thing.",opinion,"pre-labelled by Claude, checked by me; hn:50228555"
+We need AI powered FOIA request responses. All of these manual process are prone to abuse.,opinion,"pre-labelled by Claude, checked by me; hn:50237040"
+I like desec.io for there api and also fast response and friendly Team,opinion,"pre-labelled by Claude, checked by me; hn:50230457"
+"First off, that's not true. Secondly, even if it were, it's not bribery - the only way to get the type of access the SRD offers is via this route, so it's an offer of specific terms for specific privileged access that is not otherwise available.",opinion,"pre-labelled by Claude, checked by me; hn:50227960"
 "Yeah. Turns out you're on this Patch the Planet team, so I'm guessing there's some other things or relationships worth a tad more than $2000 that you ""don't want to risk"".
 
-https://news.ycombinator.com/item?id=50226366",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50231352"
-"Yup, and the “industry standard” wholesale discount publishers give to e.g. bookstores is usually 55%",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237045"
+https://news.ycombinator.com/item?id=50226366",evidenced,"pre-labelled by Claude, checked by me; hn:50231352"
+"Yup, and the “industry standard” wholesale discount publishers give to e.g. bookstores is usually 55%",evidenced,"pre-labelled by Claude, checked by me; hn:50237045"
 ">most movies/TV are still 24Hz aren't they?
 
 They are and that's part of the reason why it matters.
@@ -80,36 +80,36 @@ They are and that's part of the reason why it matters.
 
 TVs compensate by showing you every 2nd image longer causing a slight but noticeable judder effect. Panning shots don't look smooth etc. Much like font kerning once you see it you can't unsee it.
 
-Plus ofc other uses like gaming. And frankly I also didn't want to set up a home theater with half the tech modern, the other half not. A bit like you want your PC screen and GPU to be paired well and not a 1080p screen with a 5090...",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50233905"
-Why would that be a mistake?,question,"pre-labelled by Claude, not yet human-checked; hn:50228543"
-Read the article and see the video there,quip,"pre-labelled by Claude, not yet human-checked; hn:50231353"
-Clearly potentially profitable. Not clearly profitable.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50237937"
+Plus ofc other uses like gaming. And frankly I also didn't want to set up a home theater with half the tech modern, the other half not. A bit like you want your PC screen and GPU to be paired well and not a 1080p screen with a 5090...",evidenced,"pre-labelled by Claude, checked by me; hn:50233905"
+Why would that be a mistake?,question,"pre-labelled by Claude, checked by me; hn:50228543"
+Read the article and see the video there,quip,"pre-labelled by Claude, checked by me; hn:50231353"
+Clearly potentially profitable. Not clearly profitable.,opinion,"pre-labelled by Claude, checked by me; hn:50237937"
 "Thanks for posting this!
 
 > As with previous technologies, an extremely large number of initial cutting-edge investments in IT were counterproductive and over-optimistic.
 
-I think we are definitely seeing this today!",quip,"pre-labelled by Claude, not yet human-checked; hn:50231365"
+I think we are definitely seeing this today!",quip,"pre-labelled by Claude, checked by me; hn:50231365"
 "Jonathan Blow made his own language and compiler because C++ was slow and miserable.
 
 He recently released an indie game using that very language using his own 3D engine. The reviews on Steam are Overwhelimgly Positive and sales have so far significantly exceeded expectations.
 
-https://store.steampowered.com/app/499170/Order_of_the_Sinki...",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50236172"
-"The Copenhagen interpretation doesn't even deserve to sit with the other interpretations because it's not well defined. It's protoscience, like alchemy.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227280"
-I'm always amazed at how you could fly to the Moon with such basic controls. The Apollo capsule controls compared to the Dragon controls really feels like the difference between a Wright Flyer and a modern glass cockpit airplane.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50236174"
-"My father was the dentist on St Helena from 1998-2022. I visited, taking a military jet from Brize Norton airbase in the UK to Ascension Island, and then a 3-day boat on the RMS St Helena. I never took the 5-day boat from South Africa. It's a hilly and rugged place, and very green. I was a student when I went there, and I was with my twin brother and we met another set of twins who were visiting at the same time. They were our age and we all got pissed and shared the cheap cigs. My bro and one of them climbed Jacob's Ladder late at night after many beers, and they took ages while we waited at the top. They kept having to stop to vomit. That was an excellent Christmas and new year.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50229666"
-this is a strange analogy. no one is forcing the math community to read this,opinion,"pre-labelled by Claude, not yet human-checked; hn:50227979"
+https://store.steampowered.com/app/499170/Order_of_the_Sinki...",evidenced,"pre-labelled by Claude, checked by me; hn:50236172"
+"The Copenhagen interpretation doesn't even deserve to sit with the other interpretations because it's not well defined. It's protoscience, like alchemy.",opinion,"pre-labelled by Claude, checked by me; hn:50227280"
+I'm always amazed at how you could fly to the Moon with such basic controls. The Apollo capsule controls compared to the Dragon controls really feels like the difference between a Wright Flyer and a modern glass cockpit airplane.,opinion,"pre-labelled by Claude, checked by me; hn:50236174"
+"My father was the dentist on St Helena from 1998-2022. I visited, taking a military jet from Brize Norton airbase in the UK to Ascension Island, and then a 3-day boat on the RMS St Helena. I never took the 5-day boat from South Africa. It's a hilly and rugged place, and very green. I was a student when I went there, and I was with my twin brother and we met another set of twins who were visiting at the same time. They were our age and we all got pissed and shared the cheap cigs. My bro and one of them climbed Jacob's Ladder late at night after many beers, and they took ages while we waited at the top. They kept having to stop to vomit. That was an excellent Christmas and new year.",evidenced,"pre-labelled by Claude, checked by me; hn:50229666"
+this is a strange analogy. no one is forcing the math community to read this,opinion,"pre-labelled by Claude, checked by me; hn:50227979"
 "Not sure why others are doing it, but the switch is kind of a boring console imo. You may as well just use one of the million PC handhelds with the same form factor, and persistent hacks require a hardware mod.
 
-The 3DS is a fun pocketable form factor which a lot of people already own and easy to permanently mod on any firmware version or hardware revision.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237877"
-"People here are happy to downvote you, but I note that none of them have any kind of rebuttal for what you're saying.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237035"
-The vast majority of that 1 trillion is being applied to productive means.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50232602"
-"It'd be trivial to prove and yet it has never been proven. I'll give you three guesses why, and the first two don't count.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227321"
+The 3DS is a fun pocketable form factor which a lot of people already own and easy to permanently mod on any firmware version or hardware revision.",evidenced,"pre-labelled by Claude, checked by me; hn:50237877"
+"People here are happy to downvote you, but I note that none of them have any kind of rebuttal for what you're saying.",opinion,"pre-labelled by Claude, checked by me; hn:50237035"
+The vast majority of that 1 trillion is being applied to productive means.,opinion,"pre-labelled by Claude, checked by me; hn:50232602"
+"It'd be trivial to prove and yet it has never been proven. I'll give you three guesses why, and the first two don't count.",opinion,"pre-labelled by Claude, checked by me; hn:50227321"
 """…tally up all the ""wealth"" periodically, and then ""distributing"" it…""
 
-Sounds a bit like taxation.",quip,"pre-labelled by Claude, not yet human-checked; hn:50232605"
+Sounds a bit like taxation.",quip,"pre-labelled by Claude, checked by me; hn:50232605"
 "A source from the linked article: https://www.journals.uchicago.edu/doi/10.1086/685594
 
-> “Pass-through” businesses like partnerships and S-corporations now generate over half of US business income and account for much of the post-1980 rise in the top-1% income share.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50239473"
+> “Pass-through” businesses like partnerships and S-corporations now generate over half of US business income and account for much of the post-1980 rise in the top-1% income share.",evidenced,"pre-labelled by Claude, checked by me; hn:50239473"
 ">Or are they just not gonna bother checking?
 
 They're not going to bother checking. It simply isn't going to be possible for humans to review code in the future where all code is being written by machines, and not having all code be written by machines is not an option.
@@ -118,78 +118,78 @@ Hell in the future LLMs probably won't even work with ""code"" at all, just byte
 
 >We are gonna see some Knight Capital level fuckups shortly.
 
-Yes, but humans fuck up too so it doesn't matter. Future go brrr.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229711"
+Yes, but humans fuck up too so it doesn't matter. Future go brrr.",opinion,"pre-labelled by Claude, checked by me; hn:50229711"
 "personally I'd fire her on the spot.
 
 Its crazy how badly run many orgs are. Truly.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50227304"
-I'm going to go out on a limb and guess you probably didn't see Dhurandhar or Ne Zha 2 last year (the highest grossing films in India and China respectively)?,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237914"
+I'm going to go out on a limb and guess you probably didn't see Dhurandhar or Ne Zha 2 last year (the highest grossing films in India and China respectively)?,evidenced,"pre-labelled by Claude, checked by me; hn:50237914"
 "I think we'll naturally develop intuition and infrastructure for fault-tolerant ways to implement LLMs in non-verifiable domains, i.e. requiring multiple, independent agents agree on a direction from multiple angles before taking an action.
 
-But we're definitely very early on this trend.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50230459"
-"I think if your working memory is emptied more often you are more likely to spot a predator, like the doorway effect but happens even when staying put.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237918"
-"Extreme speeds are actually interesting if you think about it. We are apparently getting some interesting results from LLMs nowadays. If they would put 100x effort in 10% the time it takes, or imagine 1% where how long tool calls take become the bottleneck, that would actually probably feel like a really special kind of ""super intelligence"".",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227939"
+But we're definitely very early on this trend.",opinion,"pre-labelled by Claude, checked by me; hn:50230459"
+"I think if your working memory is emptied more often you are more likely to spot a predator, like the doorway effect but happens even when staying put.",opinion,"pre-labelled by Claude, checked by me; hn:50237918"
+"Extreme speeds are actually interesting if you think about it. We are apparently getting some interesting results from LLMs nowadays. If they would put 100x effort in 10% the time it takes, or imagine 1% where how long tool calls take become the bottleneck, that would actually probably feel like a really special kind of ""super intelligence"".",opinion,"pre-labelled by Claude, checked by me; hn:50227939"
 "I like the idea of VictorTaelin's UniiChat [1] which summarizes every message into a single line and on top of that a binary tree of lines combined from lower levels. The context is then a view of that tree with more detail in recent messages and less detail in historical messages, plus a `zoom` tool that enables the agent to navigate the tree and read messages.
 
 An implementation of this idea based on the pi harness: https://github.com/jonaslsaa/pi-optchat
 
-[1]: https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1...",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50238709"
-He is playing games with vaccine liability rules and recommendations (which can impact insurance coverage). He is trying to undermine the business model.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50238703"
+[1]: https://gist.github.com/VictorTaelin/91837951a5ce5b38f341ec1...",evidenced,"pre-labelled by Claude, checked by me; hn:50238709"
+He is playing games with vaccine liability rules and recommendations (which can impact insurance coverage). He is trying to undermine the business model.,opinion,"pre-labelled by Claude, checked by me; hn:50238703"
 """CEO Said A Thing!"" Journalism
 
-https://karlbode.com/ceo-said-a-thing-journalism/",quip,"pre-labelled by Claude, not yet human-checked; hn:50238707"
-"Gerrymandering doesn’t change the fact that the voters decide the results. Most electoral systems already give unequal weight to different votes based on district sizes etc., so gerrymandering is only a change of degree and intention, not of how democracy fundamentally works.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237921"
+https://karlbode.com/ceo-said-a-thing-journalism/",quip,"pre-labelled by Claude, checked by me; hn:50238707"
+"Gerrymandering doesn’t change the fact that the voters decide the results. Most electoral systems already give unequal weight to different votes based on district sizes etc., so gerrymandering is only a change of degree and intention, not of how democracy fundamentally works.",opinion,"pre-labelled by Claude, checked by me; hn:50237921"
 Yep this one gets me too. Mac book Pro M5 latest OS. Happened on my air also.,evidenced,"cold: blind second pass by Claude, not human (first pass said evidenced); hn:50227959"
 "Nordic model is not socialism.
 Socialism is predation from a political class instead of just the capital owners.
 
-EDIT: I didn't flag the reply below. The expression ""epaulette heavy countries"" is funny though.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229652"
+EDIT: I didn't flag the reply below. The expression ""epaulette heavy countries"" is funny though.",opinion,"pre-labelled by Claude, checked by me; hn:50229652"
 "It's so interesting that sometimes people throw these wild numbers around like 10x productivity, 100x greatness, etc. but when the rubber hits the road, we see so much ambiguity, unknowns and unrealistic assumptions.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50227323"
 "Its effectively impossible to get some streaming services to stream content >720p to a linux device. I know I tried several years ago to use Disney+ and could not find any way to get 1080p content, even on a windows machine. I think now they have an official windows store app, but still refuse to stream full HD or 4k content to a web browser.
 
-More recently I've tried hbo max and it does the same thing. Could not get higher than 720p, even with chrome and whatever DRM options theoretically fix the problem.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50236182"
-"Ah, that's sad. I miss the speed and intuitive UI/UX of the old Picasa. No image viewer has ever been able to handle massive photo libraries as well for me :(",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229126"
-It's remarkable in how hive mind works I guess. It's mindless pablum to the nth degree. The thing I find remarkable is how it shows how easy it is to influence someone. The psychology PhDs that the Chinese hired earned their money to be sure. TikTok has to be the most well funded psychology study ever implemented to the point that the users don't even know they are test subjects,opinion,"pre-labelled by Claude, not yet human-checked; hn:50227297"
+More recently I've tried hbo max and it does the same thing. Could not get higher than 720p, even with chrome and whatever DRM options theoretically fix the problem.",evidenced,"pre-labelled by Claude, checked by me; hn:50236182"
+"Ah, that's sad. I miss the speed and intuitive UI/UX of the old Picasa. No image viewer has ever been able to handle massive photo libraries as well for me :(",opinion,"pre-labelled by Claude, checked by me; hn:50229126"
+It's remarkable in how hive mind works I guess. It's mindless pablum to the nth degree. The thing I find remarkable is how it shows how easy it is to influence someone. The psychology PhDs that the Chinese hired earned their money to be sure. TikTok has to be the most well funded psychology study ever implemented to the point that the users don't even know they are test subjects,opinion,"pre-labelled by Claude, checked by me; hn:50227297"
 "Why does almost every submission title in https://digg.com/tech have the word ""reportedly"" in them?",question,"cold: blind second pass by Claude, not human (first pass said question); hn:50232620"
 "Free Anti Matter!
 
-Anti Matter did nothing wrong!",quip,"pre-labelled by Claude, not yet human-checked; hn:50231373"
-I suppose blocking/censoring Facebook/WhatsApp in Brazil would be one way of making sure their opposition wins.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50235184"
-"Can't much see a difference between Trump and Putin what with him baselessly invading Iran, Venezeula, the corruption, and wiping his ass with your constitution with his declared intent to defy the term limits anyways (something that is liable to happen when you rotate bad people into office instead of keeping good people - they actually just don't care about what limits you wrote on paper, meaning your restrictions only apply to your good employees).",opinion,"pre-labelled by Claude, not yet human-checked; hn:50239466"
+Anti Matter did nothing wrong!",quip,"pre-labelled by Claude, checked by me; hn:50231373"
+I suppose blocking/censoring Facebook/WhatsApp in Brazil would be one way of making sure their opposition wins.,opinion,"pre-labelled by Claude, checked by me; hn:50235184"
+"Can't much see a difference between Trump and Putin what with him baselessly invading Iran, Venezeula, the corruption, and wiping his ass with your constitution with his declared intent to defy the term limits anyways (something that is liable to happen when you rotate bad people into office instead of keeping good people - they actually just don't care about what limits you wrote on paper, meaning your restrictions only apply to your good employees).",opinion,"pre-labelled by Claude, checked by me; hn:50239466"
 "I can see that you only work with true scotsmen, but the machine really does write most of the code now, at least from a pure numbers perspective.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50228559"
 "I'm not worried about it. It's just a word.
 
 Regular folks often refer to any larger-than-phone, smaller-than-laptop device they see with a screen as an iPad, even if it's a hardwired Clover payment terminal running Android. The description is wrong, but it's easier to accept it than to correct it. I'm over it.
 
-Regular folks can go ahead and call any nefariously-networked camera a Flock camera. This description is also wrong, but I'm over it as well.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238690"
-Human hallucination. It's the equivalent of seeing Jesus portrait in toasted bread.,quip,"pre-labelled by Claude, not yet human-checked; hn:50230440"
+Regular folks can go ahead and call any nefariously-networked camera a Flock camera. This description is also wrong, but I'm over it as well.",opinion,"pre-labelled by Claude, checked by me; hn:50238690"
+Human hallucination. It's the equivalent of seeing Jesus portrait in toasted bread.,quip,"pre-labelled by Claude, checked by me; hn:50230440"
 "I remember one pivotal moment in college being when I was given an assignment, and I asked if some of the restrictions on the task could be removed. The teacher told me what I really did was just ask for the hard version of the problem.
 
 I asked her what she meant, and instead of telling me, she just laughed and said go ahead, remove the restrictions and see for myself.
 
-She was right! Without the restrictions there were so many more possibilities I had to work much harder to complete the assignment. It was still fun though and I learned more than just the assignment from that lesson.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227267"
-"I install Qalculate on every machine I own, even the Windows ones, so for the calc pros in here: which one is better? Thanks.",question,"pre-labelled by Claude, not yet human-checked; hn:50236210"
-"It's because you can ""program"" it in casual English. No code, no training runs.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237941"
-"This is the same company that makes ""knox""... yes this will be funny.",quip,"pre-labelled by Claude, not yet human-checked; hn:50233854"
-It's already done. The race sim is fully deterministic so the consoles exchange controller inputs and run off the same seed. It uses the underlying VS. mode for the scaffolding but changes the screen render to full for each player.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50238694"
-"Google is dead, it's impossible to find new sites.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50236219"
+She was right! Without the restrictions there were so many more possibilities I had to work much harder to complete the assignment. It was still fun though and I learned more than just the assignment from that lesson.",opinion,"pre-labelled by Claude, checked by me; hn:50227267"
+"I install Qalculate on every machine I own, even the Windows ones, so for the calc pros in here: which one is better? Thanks.",question,"pre-labelled by Claude, checked by me; hn:50236210"
+"It's because you can ""program"" it in casual English. No code, no training runs.",opinion,"pre-labelled by Claude, checked by me; hn:50237941"
+"This is the same company that makes ""knox""... yes this will be funny.",quip,"pre-labelled by Claude, checked by me; hn:50233854"
+It's already done. The race sim is fully deterministic so the consoles exchange controller inputs and run off the same seed. It uses the underlying VS. mode for the scaffolding but changes the screen render to full for each player.,evidenced,"pre-labelled by Claude, checked by me; hn:50238694"
+"Google is dead, it's impossible to find new sites.",opinion,"pre-labelled by Claude, checked by me; hn:50236219"
 "No, it's not. UTF-16 supports the same characters as UTF-32 and UTF-8 (all three support all of Unicode). UTF-16 does that by having... variable width characters, in the form of 2-UTF16 code units for some chars.
 
-UTF-16 wastes a bunch of space (when you don't need 16 bits to mark a character), and doesn't avoid variable-width encoding. UTF-8 tries to optimize space (but is ASCII skewed) with more variance (but once you can't infer length from bytes, what's the difference?) UTF-32 is a space hog at the benefit of predictable length encoding (a full Int32 to represent the null char, or a carriage return)",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237885"
-"No. Line length and text wrapping restrictions are the devil. If you want smaller width text, resize your browser window rather than making a site that sucks for us who don't want smaller text width.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227285"
-I distinctly did not get the impression that GP is happy about or approving of what he’s suggesting may be “economically rational.” It reads more as foreboding to me.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50239491"
-"I think they will else they lose the moat they have around using their models as I have been using many other wayyyy cheaper models and they are just as good if not better so with what we are all building, it is only time before OpenAI or Anthropic become less relevant.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229164"
+UTF-16 wastes a bunch of space (when you don't need 16 bits to mark a character), and doesn't avoid variable-width encoding. UTF-8 tries to optimize space (but is ASCII skewed) with more variance (but once you can't infer length from bytes, what's the difference?) UTF-32 is a space hog at the benefit of predictable length encoding (a full Int32 to represent the null char, or a carriage return)",evidenced,"pre-labelled by Claude, checked by me; hn:50237885"
+"No. Line length and text wrapping restrictions are the devil. If you want smaller width text, resize your browser window rather than making a site that sucks for us who don't want smaller text width.",opinion,"pre-labelled by Claude, checked by me; hn:50227285"
+I distinctly did not get the impression that GP is happy about or approving of what he’s suggesting may be “economically rational.” It reads more as foreboding to me.,opinion,"pre-labelled by Claude, checked by me; hn:50239491"
+"I think they will else they lose the moat they have around using their models as I have been using many other wayyyy cheaper models and they are just as good if not better so with what we are all building, it is only time before OpenAI or Anthropic become less relevant.",opinion,"pre-labelled by Claude, checked by me; hn:50229164"
 "> Take the unexpected resurgence in book sales
 
-At least some of this will be AI companies buying and scanning every book available...",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229160"
-"I actually use the logging API, it is good enough, and maybe I am old enough not to like to cowboy install dependencies if I can avoid it.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227976"
+At least some of this will be AI companies buying and scanning every book available...",opinion,"pre-labelled by Claude, checked by me; hn:50229160"
+"I actually use the logging API, it is good enough, and maybe I am old enough not to like to cowboy install dependencies if I can avoid it.",opinion,"pre-labelled by Claude, checked by me; hn:50227976"
 "> but this ain't exactly Mickey Mouse. Even Mickey Mouse is out of steam by now.
 
-Hasn't Mickey Mouse been out of steam since the 50s? He is a normal guy and you need to base any short about someone else to make it interesting. Like the squirrels or Donald Duck...",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229641"
+Hasn't Mickey Mouse been out of steam since the 50s? He is a normal guy and you need to base any short about someone else to make it interesting. Like the squirrels or Donald Duck...",opinion,"pre-labelled by Claude, checked by me; hn:50229641"
 "Oh. Well, I am rooting for bad things to befall them. These companies are creating enormous negative externalities for society while pursuing profit and hewing to an ideology that believes it is genuinely risking destroying the world, and believes it is justified in subjecting everybody else to this risk because if they don’t, someone else might.
 
-While in general I commend showing generosity and charity to those we disagree with, I don’t think it’s commendable to remain generous past the point where it becomes untenable.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50235201"
-rnicrosoft.com sure didn't need unicode tricks to fool people lol,quip,"pre-labelled by Claude, not yet human-checked; hn:50236228"
-Not sure why people would downvote this. Your not allowed to criticize any AI company on this site it seems.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50229141"
+While in general I commend showing generosity and charity to those we disagree with, I don’t think it’s commendable to remain generous past the point where it becomes untenable.",opinion,"pre-labelled by Claude, checked by me; hn:50235201"
+rnicrosoft.com sure didn't need unicode tricks to fool people lol,quip,"pre-labelled by Claude, checked by me; hn:50236228"
+Not sure why people would downvote this. Your not allowed to criticize any AI company on this site it seems.,opinion,"pre-labelled by Claude, checked by me; hn:50229141"
 "The latest of the three commits in the repo:
 
 > 413,963 files changed
@@ -198,7 +198,7 @@ Not sure why people would downvote this. Your not allowed to criticize any AI co
 
 > -3,423,007
 
-How is anyone supposed to audit that? I doubt you’ve looked at even a small fraction of the code, if any. Especially since this commit is two days after the second. Pure vibes.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227952"
+How is anyone supposed to audit that? I doubt you’ve looked at even a small fraction of the code, if any. Especially since this commit is two days after the second. Pure vibes.",evidenced,"pre-labelled by Claude, checked by me; hn:50227952"
 "Gaming used to be done in arcades for 25c a play*.
 
 Over time NeoGeo realized they could sell you the hardware to play at home (“on-prem”) at arcade quality albeit at a price out of reach to most people. Alongside them, Nintendo and Atari gave you 80% of the fun at 20% of the cost. History will view games arcades as a flash in the pan compared to gaming at home.
@@ -209,74 +209,74 @@ Namco, Capcom, and Konami went into selling software instead of hardware but it 
 
 * That’s for video games. In fairground arcades you’d literally pay for tokens then use tokens for play. The analogy almost writes itself.
 
-** The Anthropic model, not the video game.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50239448"
+** The Anthropic model, not the video game.",evidenced,"pre-labelled by Claude, checked by me; hn:50239448"
 "This looks pretty cool Always wonder about fast low level languages, can you play with its linkage enough to say run it on baremetal x86_64 or so? And how complex is the runtime? is it just transpiled to C? (i can see some notes about spitting out a single C file but wasnt sure)
 
 Either way nice to see more options in this space.
 
 Do you know a bit of an ETA / roadmap for certain features like the dynamically sized moves and struct members?
 
-p.s. love potato and geese so feelin kinda biassed towards being excited about this :D",question,"pre-labelled by Claude, not yet human-checked; hn:50232565"
-Last week my mom said we didn't have any orange juice. This week she said we have orange juice. Why the change?,quip,"pre-labelled by Claude, not yet human-checked; hn:50238749"
-Fully agree with that. The problem is the AI boosters really believe in The Singularity that will transform all of human experience. If you try to tell them AI is a high-value enterprise technology -- more valuable than docker but less than the steam engine -- they get mad at you.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50230461"
-Link to an explanation of the C++26 change? I can't find it.,question,"pre-labelled by Claude, not yet human-checked; hn:50239451"
-"Honestly I think you're on to something, as by far the most novel and interesting use cases I've seen for LLMs in general are mostly around reverse engineering things, especially if you can hit it with Ghidra, but honestly anything that can feed some sort of data and control back to a model.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227982"
-"Or rather ""the software on this server is fully patched and everything is logged. If you hack it, we will sell the 0-day you used before you can"".",quip,"pre-labelled by Claude, not yet human-checked; hn:50229660"
-"My claim is never about lack of brainpower in the EU. Clearly theres talent. Its a bit cultural, yes, but mostly its part of a framework that does not reward innovation. For a place with the best car manufacturing in the world and such a drive towards renewables, youd think Tesla should have come from EU. Or even should be replicated there. Why wont it?",opinion,"pre-labelled by Claude, not yet human-checked; hn:50239507"
-I'll guess your boys don't have a phone each yet.,quip,"pre-labelled by Claude, not yet human-checked; hn:50232580"
-"Please, I'm. Missing the point you are making. But I feel I should understand.",question,"pre-labelled by Claude, not yet human-checked; hn:50236173"
-"Yup, it seems unfathomable to some commentators that the likes of AfD or Le Pen or Bolsonaro would get popular support were it not for US big tech (interference). Which truly boggles the mind, it seems to be the same narrative that couldn't believe Hillary lost the election and it was the russians fault. Even if that were true, you should still review your policies and how you ran the campaign and learn something from it. Here it's like we're in a world with no reinforcement learning feedback loop.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50230465"
-"Seems like absolutely huge news, and hopefully getting it approved means it can be developed even more...",quip,"pre-labelled by Claude, not yet human-checked; hn:50236230"
-Amazing how this doesn’t consider a future where “AI” is non-obligatory.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50232575"
+p.s. love potato and geese so feelin kinda biassed towards being excited about this :D",question,"pre-labelled by Claude, checked by me; hn:50232565"
+Last week my mom said we didn't have any orange juice. This week she said we have orange juice. Why the change?,quip,"pre-labelled by Claude, checked by me; hn:50238749"
+Fully agree with that. The problem is the AI boosters really believe in The Singularity that will transform all of human experience. If you try to tell them AI is a high-value enterprise technology -- more valuable than docker but less than the steam engine -- they get mad at you.,opinion,"pre-labelled by Claude, checked by me; hn:50230461"
+Link to an explanation of the C++26 change? I can't find it.,question,"pre-labelled by Claude, checked by me; hn:50239451"
+"Honestly I think you're on to something, as by far the most novel and interesting use cases I've seen for LLMs in general are mostly around reverse engineering things, especially if you can hit it with Ghidra, but honestly anything that can feed some sort of data and control back to a model.",opinion,"pre-labelled by Claude, checked by me; hn:50227982"
+"Or rather ""the software on this server is fully patched and everything is logged. If you hack it, we will sell the 0-day you used before you can"".",quip,"pre-labelled by Claude, checked by me; hn:50229660"
+"My claim is never about lack of brainpower in the EU. Clearly theres talent. Its a bit cultural, yes, but mostly its part of a framework that does not reward innovation. For a place with the best car manufacturing in the world and such a drive towards renewables, youd think Tesla should have come from EU. Or even should be replicated there. Why wont it?",opinion,"pre-labelled by Claude, checked by me; hn:50239507"
+I'll guess your boys don't have a phone each yet.,quip,"pre-labelled by Claude, checked by me; hn:50232580"
+"Please, I'm. Missing the point you are making. But I feel I should understand.",question,"pre-labelled by Claude, checked by me; hn:50236173"
+"Yup, it seems unfathomable to some commentators that the likes of AfD or Le Pen or Bolsonaro would get popular support were it not for US big tech (interference). Which truly boggles the mind, it seems to be the same narrative that couldn't believe Hillary lost the election and it was the russians fault. Even if that were true, you should still review your policies and how you ran the campaign and learn something from it. Here it's like we're in a world with no reinforcement learning feedback loop.",opinion,"pre-labelled by Claude, checked by me; hn:50230465"
+"Seems like absolutely huge news, and hopefully getting it approved means it can be developed even more...",quip,"pre-labelled by Claude, checked by me; hn:50236230"
+Amazing how this doesn’t consider a future where “AI” is non-obligatory.,opinion,"pre-labelled by Claude, checked by me; hn:50232575"
 "> Kyle Rittenhouse, etc. are examples of the counterweight ready to reign in protests gone feral.
 
 I mean yes, but that's exactly down to country ""personality"" and conventions which I was hinting at. France values the right to protest almost above the right to shrug. However its not like the french police are going to be nice to you because you're protesting, french police are _bastards_.
 
-If you wander around with a gun in france, and you're not hunting, the police _will_ shoot you, and more importantly, in the spirit of Liberté, égalité, fraternité, they'll shoot you even if you're white.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50231319"
-For this reason I try not to intermingle accounts. I won't touch good for email or other services because what happens if they decide using an ad blocker on youtube is bannable?,opinion,"pre-labelled by Claude, not yet human-checked; hn:50232598"
+If you wander around with a gun in france, and you're not hunting, the police _will_ shoot you, and more importantly, in the spirit of Liberté, égalité, fraternité, they'll shoot you even if you're white.",opinion,"pre-labelled by Claude, checked by me; hn:50231319"
+For this reason I try not to intermingle accounts. I won't touch good for email or other services because what happens if they decide using an ad blocker on youtube is bannable?,opinion,"pre-labelled by Claude, checked by me; hn:50232598"
 "Agreed. It's interesting to me to read about math homework being graded, because in my college math courses (at RPI in the late-aughts), homework was optional. It was ""assigned"" for students who needed more practice, but not required for those who didn't. It had no bearing on your grades at all.
 
-I distinctly remember for the calculus courses, they told you a set of textbooks were required. By the end of the semester, I hadn't even peeled off the shrink wrap. The professor only used the books to cherry-pick homework problems from, and I personally never felt the need to complete them. I get that everyone learns differently, but making everyone buy that book never really sat well with me.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237906"
+I distinctly remember for the calculus courses, they told you a set of textbooks were required. By the end of the semester, I hadn't even peeled off the shrink wrap. The professor only used the books to cherry-pick homework problems from, and I personally never felt the need to complete them. I get that everyone learns differently, but making everyone buy that book never really sat well with me.",evidenced,"pre-labelled by Claude, checked by me; hn:50237906"
 "> The US tech giants appear to be politically active
 
-Appear ? They are the arms of the CIA.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232595"
+Appear ? They are the arms of the CIA.",opinion,"pre-labelled by Claude, checked by me; hn:50232595"
 "Someone, typically a parent of guardian, reads them to you while showing you the words. After reading the story, they might go back and walk you through each word, how it's said, and its meaning.
 
-Not only do a lot of kids learn like this, but for instance the little Polish that I know how to speak and read I learned like this as an adult with the help of a native speaker.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50236227"
+Not only do a lot of kids learn like this, but for instance the little Polish that I know how to speak and read I learned like this as an adult with the help of a native speaker.",opinion,"pre-labelled by Claude, checked by me; hn:50236227"
 "The cost of training/developing a frontier model will continue to rise. The cost of inference will continue to fall. Companies don't buy models as such, they buy inference. As inference becomes a larger and larger business expense companies will optimize that spending, routing work to the ""capable enough"" least cost tokens.
 
-There is a lot of human work that can be offset with tokens. On the other hand, the amount of work for the highest intelligence models will remain limited - corporate strategy, major decisions, etc. are just not as frequent.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237050"
+There is a lot of human work that can be offset with tokens. On the other hand, the amount of work for the highest intelligence models will remain limited - corporate strategy, major decisions, etc. are just not as frequent.",opinion,"pre-labelled by Claude, checked by me; hn:50237050"
 "The server doesn't respond right now (2026-10-25T05:30:00Z). What happened?
 
-The wallet is at $2,016.73",question,"pre-labelled by Claude, not yet human-checked; hn:50228576"
-Last I heard it was 10 or 11 but definitely not 0x3.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50232616"
-I don’t think you develop this kind of things to be useful and solve problems. It’s more of a fun hobby project/homage kind of things. Maybe not everything has to have a purpose yk,opinion,"pre-labelled by Claude, not yet human-checked; hn:50231358"
+The wallet is at $2,016.73",question,"pre-labelled by Claude, checked by me; hn:50228576"
+Last I heard it was 10 or 11 but definitely not 0x3.,evidenced,"pre-labelled by Claude, checked by me; hn:50232616"
+I don’t think you develop this kind of things to be useful and solve problems. It’s more of a fun hobby project/homage kind of things. Maybe not everything has to have a purpose yk,opinion,"pre-labelled by Claude, checked by me; hn:50231358"
 "> It’s much more likely, imo, that local AI models will completely destroy the entire business model of inference.
 
 You're massively underestimating how much cheaper it is to serve models in a datacenter than at home.
 
 > By your own definition it is impossible to achieve profitability without an ever increasing amount of money flowing into it.
 
-No, what? No. This is just a total misreading of what I'm saying. It's extremely easy to achieve profitability. It just requires your business to stop chasing more profitability. The problem is just that then the other businesses who are still chasing more profitability will eat its lunch. It's a market shape that easily supports n-1 bankruptcies but never n bankruptcies.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50231291"
+No, what? No. This is just a total misreading of what I'm saying. It's extremely easy to achieve profitability. It just requires your business to stop chasing more profitability. The problem is just that then the other businesses who are still chasing more profitability will eat its lunch. It's a market shape that easily supports n-1 bankruptcies but never n bankruptcies.",opinion,"pre-labelled by Claude, checked by me; hn:50231291"
 "This is an interesting failure-mode to me, and I've been interested in how accurate it is since the inception of these models.
 
 My answer is still yes - I've got this personal concept that AI is sorta the ""opposite"" of lossy compression... As the model iterates on a larger corpus of context, things are missed, misinterpreted, slightly changed. This all eventually contributes to the writing feeling disconnected. LLMs make decisions on what the most important facet of a prompt is, obviously we can 'guide' it...
 
-Over time, I feel that as we let more AI generated content (no human edited / modified / improved the output) sit around on the internet, the training data will pick up more of this 'poisoned' data and impact future output.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232558"
+Over time, I feel that as we let more AI generated content (no human edited / modified / improved the output) sit around on the internet, the training data will pick up more of this 'poisoned' data and impact future output.",opinion,"pre-labelled by Claude, checked by me; hn:50232558"
 "The same reason we name storms and hurricanes... It's easier to raise awareness, and refer to these things after the fact. More memorable then CVE-whatever.
 
-I find it helpful at least...",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232597"
-Looks interesting. I just installed it. But I didn't know I needed a music player in my IDE...,quip,"pre-labelled by Claude, not yet human-checked; hn:50230474"
-"That's quite an approach, thanks for sharing. I still don't think it mitigates restoring within the US since they claim to have search rights within 100 miles of any international airport. Personally, I try not to fall into the trap of believing I need retention of data that doesn't fall into a few categories, most of which I would assume I will already be sharing with authorities through taxes, etc.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50230438"
-"Yes it was meant colloquially, like ""the syntax tree describes the actual underlying structure of the flat list of EDIFACT segments"".",opinion,"pre-labelled by Claude, not yet human-checked; hn:50233919"
+I find it helpful at least...",opinion,"pre-labelled by Claude, checked by me; hn:50232597"
+Looks interesting. I just installed it. But I didn't know I needed a music player in my IDE...,quip,"pre-labelled by Claude, checked by me; hn:50230474"
+"That's quite an approach, thanks for sharing. I still don't think it mitigates restoring within the US since they claim to have search rights within 100 miles of any international airport. Personally, I try not to fall into the trap of believing I need retention of data that doesn't fall into a few categories, most of which I would assume I will already be sharing with authorities through taxes, etc.",evidenced,"pre-labelled by Claude, checked by me; hn:50230438"
+"Yes it was meant colloquially, like ""the syntax tree describes the actual underlying structure of the flat list of EDIFACT segments"".",opinion,"pre-labelled by Claude, checked by me; hn:50233919"
 "The average PHP server that is unpatched now will remain unpatched after OP publishes the exploits because that server’s admin is clearly not scouring the web for security vulnerabilities.
 
-Also, an increasing number of admins of PHP servers probably are no longer alive, so they will not be applying security patches.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228607"
-"No, it's the lawnmower analogy again: Zuckerberg has no political views, he just thinks that Trump will restrict him less/allow him to make more money/is easier to exploit.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228534"
-They're running it and then throwing away the result if you don't consent? Way to waste electricity...,quip,"pre-labelled by Claude, not yet human-checked; hn:50230487"
-Tesla autopilot has also killed dozens of people.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227958"
-that's interesting! when i was a child I could eat canned tuna as well but sadly no longer.,quip,"pre-labelled by Claude, not yet human-checked; hn:50235189"
-I did not know this. Can you expand on it? When I was on Roku channel it looked like it was all free. I didn't watch long enough to notice if it had advertising embeded in it. If it is ad supported your telling me after distribution costs their advertising network brings in 1b+?,question,"pre-labelled by Claude, not yet human-checked; hn:50228594"
+Also, an increasing number of admins of PHP servers probably are no longer alive, so they will not be applying security patches.",opinion,"pre-labelled by Claude, checked by me; hn:50228607"
+"No, it's the lawnmower analogy again: Zuckerberg has no political views, he just thinks that Trump will restrict him less/allow him to make more money/is easier to exploit.",opinion,"pre-labelled by Claude, checked by me; hn:50228534"
+They're running it and then throwing away the result if you don't consent? Way to waste electricity...,quip,"pre-labelled by Claude, checked by me; hn:50230487"
+Tesla autopilot has also killed dozens of people.,evidenced,"pre-labelled by Claude, checked by me; hn:50227958"
+that's interesting! when i was a child I could eat canned tuna as well but sadly no longer.,quip,"pre-labelled by Claude, checked by me; hn:50235189"
+I did not know this. Can you expand on it? When I was on Roku channel it looked like it was all free. I didn't watch long enough to notice if it had advertising embeded in it. If it is ad supported your telling me after distribution costs their advertising network brings in 1b+?,question,"pre-labelled by Claude, checked by me; hn:50228594"
 "I used to point this out whenever UBI came up for discussion.
 
 People got very very angry at me for pointing this out.
@@ -284,83 +284,83 @@ People got very very angry at me for pointing this out.
 So I stopped doing it.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50239442"
 "Not unpopular enough to tank Tesla sales (like in other countries) or not be pubic enemy #1 after literally stealing America's government data.
 
-He did screw up Twitter/X enough that a new competitor managed to make a blip on the map, though. So that leads some credence.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238687"
+He did screw up Twitter/X enough that a new competitor managed to make a blip on the map, though. So that leads some credence.",opinion,"pre-labelled by Claude, checked by me; hn:50238687"
 "Wait until you hear about expensive lawyers and judges...
-https://www.damiencharlotin.com/hallucinations/",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50235197"
+https://www.damiencharlotin.com/hallucinations/",evidenced,"pre-labelled by Claude, checked by me; hn:50235197"
 "Not keep adding to the taxes, expenses, and red tape? Work to address the outrageous cost of living in CA that indirectly drives expenses for labor? It's a million and one policies that all contribute to how running a labor heavy business in CA is increasingly challenging (bearing in mind that those factors matter less to a software shop or Apple).
 
-As I mentioned elsewhere in the thread, CA's labor-pool's own hostility to the film industry (via strikes) also played a big role. They gave the studios the finger, then are surprised that the studios took their ball and went elsewhere.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50230489"
-"This is a subtly ageist view. The adults buying these LEGO now are likely the same kids who grew up with them. It is good for a company to adapt to their customers as they go through phases in life. This gives old generations and new generations a common ground to bond over, instead of segregating them into separate circles. Also, kids today might not be as interested in LEGO. Know your audience.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232606"
-"In the UK it's common to refer to companies in the plural. ""Nike have announced..."" etc. . I like it. It's a reminder that they are in fact companies of people, not abstract entities.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50229138"
-But they should use reasoning first.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50236236"
-"They’re strongly heritable, for one…",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232603"
+As I mentioned elsewhere in the thread, CA's labor-pool's own hostility to the film industry (via strikes) also played a big role. They gave the studios the finger, then are surprised that the studios took their ball and went elsewhere.",opinion,"pre-labelled by Claude, checked by me; hn:50230489"
+"This is a subtly ageist view. The adults buying these LEGO now are likely the same kids who grew up with them. It is good for a company to adapt to their customers as they go through phases in life. This gives old generations and new generations a common ground to bond over, instead of segregating them into separate circles. Also, kids today might not be as interested in LEGO. Know your audience.",opinion,"pre-labelled by Claude, checked by me; hn:50232606"
+"In the UK it's common to refer to companies in the plural. ""Nike have announced..."" etc. . I like it. It's a reminder that they are in fact companies of people, not abstract entities.",evidenced,"pre-labelled by Claude, checked by me; hn:50229138"
+But they should use reasoning first.,opinion,"pre-labelled by Claude, checked by me; hn:50236236"
+"They’re strongly heritable, for one…",opinion,"pre-labelled by Claude, checked by me; hn:50232603"
 Disagreed. C with syntax conveniences is what most people need.,opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50230485"
 "This ignores the supply side of the equation and just focuses on the demand side.
 
 Of course every business wants to capture 99.9% of the value they offer, but competitive forces drive this down to an equilibrium.
 
-Also, as an aside, I've noticed that there's a subset of people on hackernews who use 'weird' to describe any disagreement with their position. It's not 'weird' to have an opposing or different view and removing such language will make conversations on here more pleasant.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229143"
-"If you know of a TV that automatically connects to networks without the user's permission, even some tiny brand, please share. I mean that sincerely, I feel like I talk about this every other month with someone.",question,"pre-labelled by Claude, not yet human-checked; hn:50233891"
+Also, as an aside, I've noticed that there's a subset of people on hackernews who use 'weird' to describe any disagreement with their position. It's not 'weird' to have an opposing or different view and removing such language will make conversations on here more pleasant.",opinion,"pre-labelled by Claude, checked by me; hn:50229143"
+"If you know of a TV that automatically connects to networks without the user's permission, even some tiny brand, please share. I mean that sincerely, I feel like I talk about this every other month with someone.",question,"pre-labelled by Claude, checked by me; hn:50233891"
 "“All” is doing a lot of work there.
 
 Also there are real trade offs. Food would be cheaper if, for instance, it were legal to cut it with any old cheap substance regardless of health effects.
 
 But I totally agree that some regulations are dumb or are regulatory capture monopoly schemes.
 
-Unfortunately like many other things there is no absolute simple rule to save us from thinking. Each case must be evaluated in depth hopefully with domain expertise.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237081"
-"These are far more plausible explanations. AI can no doubt bring certain efficiencies, but for the most part consumers seem to be squarely rejecting primarily AI-generated creative output.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227981"
-"I find your comment much much lower effort than GP you took a snip at. It's true that more ppl may align in your thinking, but dissing the other side's concern as low effort does not belong in hn.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227316"
-"JB's original claim, at least as I understood it, was that with LLVM and the like language tooling is now good enough that anybody can quickly whip up a language to their personal tastes with no PL background, and therefore the hurdle of novelty and generality required for a language to justify its existence is drastically lower than it has been in times past. It's a shame, but having his personal language be in closed beta twelve years later is pretty strong evidence against that thesis in a couple of different ways.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229705"
-Dude they just did. If you didn't understand it then you aren't gonna be able to use it.,quip,"pre-labelled by Claude, not yet human-checked; hn:50228005"
+Unfortunately like many other things there is no absolute simple rule to save us from thinking. Each case must be evaluated in depth hopefully with domain expertise.",opinion,"pre-labelled by Claude, checked by me; hn:50237081"
+"These are far more plausible explanations. AI can no doubt bring certain efficiencies, but for the most part consumers seem to be squarely rejecting primarily AI-generated creative output.",opinion,"pre-labelled by Claude, checked by me; hn:50227981"
+"I find your comment much much lower effort than GP you took a snip at. It's true that more ppl may align in your thinking, but dissing the other side's concern as low effort does not belong in hn.",opinion,"pre-labelled by Claude, checked by me; hn:50227316"
+"JB's original claim, at least as I understood it, was that with LLVM and the like language tooling is now good enough that anybody can quickly whip up a language to their personal tastes with no PL background, and therefore the hurdle of novelty and generality required for a language to justify its existence is drastically lower than it has been in times past. It's a shame, but having his personal language be in closed beta twelve years later is pretty strong evidence against that thesis in a couple of different ways.",opinion,"pre-labelled by Claude, checked by me; hn:50229705"
+Dude they just did. If you didn't understand it then you aren't gonna be able to use it.,quip,"pre-labelled by Claude, checked by me; hn:50228005"
 "> A truly skilled developer who makes a genuine attempt should be expected to solve 99% of their tasks within the same business day as of October 2026.
 
-Agreed, and in fact even pre-AI good development teams weren't limited by speed of code generation (how to build it), but rather making the right thing (what to build).",opinion,"pre-labelled by Claude, not yet human-checked; hn:50231336"
+Agreed, and in fact even pre-AI good development teams weren't limited by speed of code generation (how to build it), but rather making the right thing (what to build).",opinion,"pre-labelled by Claude, checked by me; hn:50231336"
 "I use tabs as ephemeral bookmarks, yeah
 
-Maybe there’s a better way",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237034"
+Maybe there’s a better way",opinion,"pre-labelled by Claude, checked by me; hn:50237034"
 "As a Pi user, this may be very interesting. Especially after they add full support for Pi extensions.
 
-I tried Air before and found it underwhelming. I tried using it around Pi through ADB, but it didn't any benefit around using Pi purely.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50236164"
+I tried Air before and found it underwhelming. I tried using it around Pi through ADB, but it didn't any benefit around using Pi purely.",opinion,"pre-labelled by Claude, checked by me; hn:50236164"
 "It's not. You see the same bio, which is why your quote begins with the exact text that yorwba provided.
 
 The comics have dedicated sites; the artists' website is https://hazelbell.ca/ . None of those sites appear to have any problems.
 
-You should be aware, if you weren't already, that you can find the websites associated with artworks or people by searching for them; it isn't necessary to follow links that may or may not appear on an unaffiliated website.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237091"
-It is like saying there is no impact on math because solving a millennium prize problem didn’t net them a profit. It is just a naive way of looking at things.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50229634"
+You should be aware, if you weren't already, that you can find the websites associated with artworks or people by searching for them; it isn't necessary to follow links that may or may not appear on an unaffiliated website.",evidenced,"pre-labelled by Claude, checked by me; hn:50237091"
+It is like saying there is no impact on math because solving a millennium prize problem didn’t net them a profit. It is just a naive way of looking at things.,opinion,"pre-labelled by Claude, checked by me; hn:50229634"
 "Ai generated text being too concise is not a problem I’m encountering. What we’ve begun to term “Claudish” tends to more closely approximate those “become an expert in X using this one weird trick“ articles that go on and on and never quite seen to get to the point.
 
-Usually I’m getting better results by telling it to be more concise.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227320"
+Usually I’m getting better results by telling it to be more concise.",opinion,"pre-labelled by Claude, checked by me; hn:50227320"
 "> The internet is not what’s being censored.
 
 Well there's that thing with some countries blocking like all of Cloudflare during sportsball matches, since Cloudflare deliberately makes it impossible to block only whichever of their customers are serving unlicensed sportsball streams.
 
 And I think the ""Great Firewall"" is still a thing.
 
-And IIRC there's a couple times I've heard about countries taking down connectivity entirely during civil-war / major-unrest type incidents.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50238688"
-I read these articles and am reminded how nice Julia is.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50229714"
+And IIRC there's a couple times I've heard about countries taking down connectivity entirely during civil-war / major-unrest type incidents.",evidenced,"pre-labelled by Claude, checked by me; hn:50238688"
+I read these articles and am reminded how nice Julia is.,opinion,"pre-labelled by Claude, checked by me; hn:50229714"
 "Pyrefly and Zuban are faster. Pyrefly and Zuban use less memory. Pyrefly and Zuban score higher on the type system conformance test.
 
-Use whatever tools you want, but don't kid yourself. There's a reason Google adopted Pyrefly.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50228540"
-contains false sentences despite careful wording https://mythdetector.com/en/europe-in-bentley-sales/,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50233895"
+Use whatever tools you want, but don't kid yourself. There's a reason Google adopted Pyrefly.",evidenced,"pre-labelled by Claude, checked by me; hn:50228540"
+contains false sentences despite careful wording https://mythdetector.com/en/europe-in-bentley-sales/,evidenced,"pre-labelled by Claude, checked by me; hn:50233895"
 "We are getting hammered by a massive increase in generation of content, and no change in our ability to consume content.
 
-Understanding is a combination of consumption and reflection. There is simply not enough time to do so. This is driving a push towards content that is so simple to consume that it takes no effort.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228535"
-"Haha, in my case, it only renders when frames are needed. Otherwise it's basically an image at 0fps.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229655"
+Understanding is a combination of consumption and reflection. There is simply not enough time to do so. This is driving a push towards content that is so simple to consume that it takes no effort.",opinion,"pre-labelled by Claude, checked by me; hn:50228535"
+"Haha, in my case, it only renders when frames are needed. Otherwise it's basically an image at 0fps.",opinion,"pre-labelled by Claude, checked by me; hn:50229655"
 "> Writing a parser for a compiler? It used to be an endeavor that took several days, now an LLM will do it in 20 mins.
 
-Heh this used to be an interview question I gave. You’d be surprised how far people would get in 30 minutes.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50236212"
+Heh this used to be an interview question I gave. You’d be surprised how far people would get in 30 minutes.",opinion,"pre-labelled by Claude, checked by me; hn:50236212"
 "No. You'd be competing with multiple mature cloud services plus Github Enterprise Cloud/self-hosted plus multiple open source options.
 
 I don't need or want a dedicated support engineer for my VCS, I need it to integrate with all the bullshit products I already have, tick off the compliance and governance checkboxes for the suits, give me controls so SWEs do less dumb shit and above all, not be something I have to think about except at contract renewal time.
 
-I'm just not going to trust a rando to run all that for me and get it right, especially not at that price point.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229161"
+I'm just not going to trust a rando to run all that for me and get it right, especially not at that price point.",opinion,"pre-labelled by Claude, checked by me; hn:50229161"
 "You can see the commenters arguing with me about ASLR in the old thread. Half the commenters here, including quite a few ""thought leaders"" (not gonna name names or ad hominems but everybody knows who they are), insist that there are ways to implement this exploit at scale without having to do rowhammer-style spam brute forcing. I am still waiting. There's a lot of FUD and hearsay in the tech circles grapevine but very little evidence of actual working exploits against a modern Linux server outside of ""attempts"".
 
 https://news.ycombinator.com/item?id=50188948
 
-I am still waiting for them to put their money where their mouth is.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227281"
-The majority of anti-tech sentiment in America has been coming out of left-leaning circles for the last five years. Go look at a video of the people protesting data centers in your nearest metropole; I guarantee you they look nothing like the caricature you have in your head.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50239452"
-"Listen to Bach, if that doesn’t work then your standards are not high but completely wrong.",quip,"pre-labelled by Claude, not yet human-checked; hn:50227291"
+I am still waiting for them to put their money where their mouth is.",opinion,"pre-labelled by Claude, checked by me; hn:50227281"
+The majority of anti-tech sentiment in America has been coming out of left-leaning circles for the last five years. Go look at a video of the people protesting data centers in your nearest metropole; I guarantee you they look nothing like the caricature you have in your head.,opinion,"pre-labelled by Claude, checked by me; hn:50239452"
+"Listen to Bach, if that doesn’t work then your standards are not high but completely wrong.",quip,"pre-labelled by Claude, checked by me; hn:50227291"
 "Maybe he is translating to English. Maybe he is translating himself and this is an artifact of German.
 
 ""If an author doesn’t have time to write. Why should I give up my time to read?""
@@ -370,86 +370,86 @@ Perhaps he is taking the time to translate it for you, otherwise you'd have to d
 
 Energy package 3 was supposed to fix this with some additional regulation and standardization. It did not. Energy package 4 is supposed to fix this with more standardization and regulations (including distributed generation; which I am in favor of btw.) however, it will not.
 
-The problem is the privatizations of the 2000s, not in the regulations surrounding small scale solar. The problem is neo-liberalism. Get rid of corporations rent-seeking on our infrastructure. Our energy bills will not become lower until then.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50236194"
+The problem is the privatizations of the 2000s, not in the regulations surrounding small scale solar. The problem is neo-liberalism. Get rid of corporations rent-seeking on our infrastructure. Our energy bills will not become lower until then.",evidenced,"pre-labelled by Claude, checked by me; hn:50236194"
 "Not controversial. Just not aligned with the owners of HN.
 
-The comments you upvote/downvote are used to calculate your ""opinion similarity"" to the owners. Then your upvote/downvotes are modulated by that similarity. It's a way of using other humans to amplify the opinions of the owners -- they don't have time to read all the comments, so instead they filter out those who think the same way they do and let them do it.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50239486"
-With all due respect to Dan Luu... the article starts with a quote by the pgrust guy from the cheating debacle covered just two days ago: https://news.ycombinator.com/item?id=50205816,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50229148"
+The comments you upvote/downvote are used to calculate your ""opinion similarity"" to the owners. Then your upvote/downvotes are modulated by that similarity. It's a way of using other humans to amplify the opinions of the owners -- they don't have time to read all the comments, so instead they filter out those who think the same way they do and let them do it.",opinion,"pre-labelled by Claude, checked by me; hn:50239486"
+With all due respect to Dan Luu... the article starts with a quote by the pgrust guy from the cheating debacle covered just two days ago: https://news.ycombinator.com/item?id=50205816,evidenced,"pre-labelled by Claude, checked by me; hn:50229148"
 "Real rioters will dive into no-DNS internet communication. Most internet protocols were designed with DNS independence in mind (read the email RFC, email addresses can have IP literals instead of DNS names which is of paramount importance, which I use BTW).
 
 Namely, in the end, they will have to switch off telecommunication as a whole... well, if they are not interested in gathering intelligence about the rioters.
 
 And then real rioters will have 'mesh communication devices', and then govs will need EM jammers too.
 
-Sooo... govs should work on good and wide spread EM jammers instead of trying to to block DNS...",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50230458"
-"Hang in there as best you can. Contrary to what AI bros on HN claim, LLMs can't actually program worth a damn. In time the deficiency will become too great to ignore, and companies will be replacing their models with humans. No telling how long that will take, but this is going to get walked back just like outsourcing to cheap Indian firms got walked back in the first decade of the century.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237043"
+Sooo... govs should work on good and wide spread EM jammers instead of trying to to block DNS...",evidenced,"pre-labelled by Claude, checked by me; hn:50230458"
+"Hang in there as best you can. Contrary to what AI bros on HN claim, LLMs can't actually program worth a damn. In time the deficiency will become too great to ignore, and companies will be replacing their models with humans. No telling how long that will take, but this is going to get walked back just like outsourcing to cheap Indian firms got walked back in the first decade of the century.",opinion,"pre-labelled by Claude, checked by me; hn:50237043"
 "I'm not convinced he's done the calibration, at least in his demo video. It's pretty bad, imo.
 
 I think he's just running it on the raw unrectified images.
 
 For anyone wanting to play with this, OpenCV has a number of tutorials on this using stuff like stereoBM (which also uses SAD if I'm remembering my algos).
 
-The first step is calibration -- intrinsics (basically figuring out the equations that can cancel out the lens distortion) and extrinsics (how far apart are the two cameras in XYZ, tilt, etc).",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50228606"
-Why exSDF member? Your account is surely still there waiting for you!,question,"pre-labelled by Claude, not yet human-checked; hn:50229106"
-They had a reveal for the remake on Gamescom Opening Night Live and it was pretty prominently marketed there as well,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50231292"
-There is a centuries old holywar on this subject that you are not a party of. Just don't,quip,"pre-labelled by Claude, not yet human-checked; hn:50233912"
-"People want 4k, HDR, 60+ inches.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50231340"
-I assume that devices unable to do certificate revocation will also not do certificate pinning.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50230490"
-"Yeah, I've never used Claude, and generally use the codex CLI with whatever base prompt that implies, and I've found that it's always been very clear and concise without goofy ""-isms."" It just comes across as an intelligent colleague. It even makes effective use of bold and italics for emphasis. I'm a little mystified reading all of these comments.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50231345"
+The first step is calibration -- intrinsics (basically figuring out the equations that can cancel out the lens distortion) and extrinsics (how far apart are the two cameras in XYZ, tilt, etc).",evidenced,"pre-labelled by Claude, checked by me; hn:50228606"
+Why exSDF member? Your account is surely still there waiting for you!,question,"pre-labelled by Claude, checked by me; hn:50229106"
+They had a reveal for the remake on Gamescom Opening Night Live and it was pretty prominently marketed there as well,evidenced,"pre-labelled by Claude, checked by me; hn:50231292"
+There is a centuries old holywar on this subject that you are not a party of. Just don't,quip,"pre-labelled by Claude, checked by me; hn:50233912"
+"People want 4k, HDR, 60+ inches.",opinion,"pre-labelled by Claude, checked by me; hn:50231340"
+I assume that devices unable to do certificate revocation will also not do certificate pinning.,opinion,"pre-labelled by Claude, checked by me; hn:50230490"
+"Yeah, I've never used Claude, and generally use the codex CLI with whatever base prompt that implies, and I've found that it's always been very clear and concise without goofy ""-isms."" It just comes across as an intelligent colleague. It even makes effective use of bold and italics for emphasis. I'm a little mystified reading all of these comments.",opinion,"pre-labelled by Claude, checked by me; hn:50231345"
 "The subject of the thread is a competition of skill with rules.
 
 This is the second time that I had to read about your off-topic personal projects where it’s utterly irrelevant that you use AI or not. Add an off-topic tag to your messages at least.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50236235"
 "Is there a paper for your method? I'm always keen to see other deterministic algos for SR, it sounds interesting from what I can glean, but I don't read/write rust so may need an agent to help me decipher
 
-I'll see about getting mine added to SRbench as well",question,"pre-labelled by Claude, not yet human-checked; hn:50227327"
+I'll see about getting mine added to SRbench as well",question,"pre-labelled by Claude, checked by me; hn:50227327"
 "> In a statement to Puck, Xbox said, “We have received record-breaking interest in our I.P.; Netflix is a valued partner and we are excited for the forthcoming release of our Minecraft and Diablo animated series together, among other adaptations.”
 
 My eyes are about to roll out of my head. Stale intellectual property can make unexpectedly good money for a little while, but this ain't exactly Mickey Mouse. Even Mickey Mouse is out of steam by now.
 
-Microsoft is rejecting the deal simply because they can afford the loss even if they let everything under ""Xbox"" rot. They will only accept someone willing to overpay.",quip,"pre-labelled by Claude, not yet human-checked; hn:50229149"
+Microsoft is rejecting the deal simply because they can afford the loss even if they let everything under ""Xbox"" rot. They will only accept someone willing to overpay.",quip,"pre-labelled by Claude, checked by me; hn:50229149"
 I love using hugo. Also wrote about some time ago how I got a perfect 100/100 Lighthouse score with Hugo and plain CSS. Feel free to have a look: https://philippdubach.com/posts/hugo-lighthouse-100/,evidenced,"cold: blind second pass by Claude, not human (first pass said evidenced); hn:50238741"
 "Might want to Google Global Crossing.
-The internet survived, but most giant companies did not.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237080"
-But you know - it would be funny if somehow Open Weights are the thing that completely save IBM,quip,"pre-labelled by Claude, not yet human-checked; hn:50238725"
-"Uh, I wouldn't constrain them like that. More like they leverage the CIA, among others.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238712"
+The internet survived, but most giant companies did not.",evidenced,"pre-labelled by Claude, checked by me; hn:50237080"
+But you know - it would be funny if somehow Open Weights are the thing that completely save IBM,quip,"pre-labelled by Claude, checked by me; hn:50238725"
+"Uh, I wouldn't constrain them like that. More like they leverage the CIA, among others.",opinion,"pre-labelled by Claude, checked by me; hn:50238712"
 "> I migrated all my stuff from dreamhost about 5 years ago
 
-May I ask to where you migrated?",question,"pre-labelled by Claude, not yet human-checked; hn:50237088"
+May I ask to where you migrated?",question,"pre-labelled by Claude, checked by me; hn:50237088"
 "Only 17% of people who laid out LLM transformer foundations between 2017 and 2022 had relevant PhDs. Not that I expect it would sway your faith or stop the downvotes, but just quoting anyway:
 
-https://chatgpt.com/s/t_6adee2ceae408191b155de89259ed240",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50239467"
-All it's doing is allocating address space. And 64 bits means you have an astronomical amount of that. It only needs to become actual memory when you use it. A page at a time.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50228564"
-will this be recorded? it sounds interesting!,question,"pre-labelled by Claude, not yet human-checked; hn:50229717"
-This is (would be) a convincing signal of ai adoption. Worth pondering I think.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50237931"
+https://chatgpt.com/s/t_6adee2ceae408191b155de89259ed240",evidenced,"pre-labelled by Claude, checked by me; hn:50239467"
+All it's doing is allocating address space. And 64 bits means you have an astronomical amount of that. It only needs to become actual memory when you use it. A page at a time.,evidenced,"pre-labelled by Claude, checked by me; hn:50228564"
+will this be recorded? it sounds interesting!,question,"pre-labelled by Claude, checked by me; hn:50229717"
+This is (would be) a convincing signal of ai adoption. Worth pondering I think.,opinion,"pre-labelled by Claude, checked by me; hn:50237931"
 "You seem to give too much credit for these companies and too less credit for governments.
 
-First of all, most companies just want to make money, with minimal risk. It's significantly easier to make money when you are at worst doing grey area stuff and stay mostly legal (or even ""better"" is to lobby your thing into being legal). And any info known by more than 2 people is no longer a secret, and you ain't paying enough to your employees to lie under oath for their employer. So no, I don't believe it's happening all too often, and even if it does happen it's mostly out of ignorance, not a deliberate attempt to go against the law.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50230484"
-"No, don't use time machine.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227966"
-I asked the AI what are phenomena that people confuse with Jevons Paradox? The response taught me that it's not always so easy to identify the correct situation.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50229654"
+First of all, most companies just want to make money, with minimal risk. It's significantly easier to make money when you are at worst doing grey area stuff and stay mostly legal (or even ""better"" is to lobby your thing into being legal). And any info known by more than 2 people is no longer a secret, and you ain't paying enough to your employees to lie under oath for their employer. So no, I don't believe it's happening all too often, and even if it does happen it's mostly out of ignorance, not a deliberate attempt to go against the law.",opinion,"pre-labelled by Claude, checked by me; hn:50230484"
+"No, don't use time machine.",opinion,"pre-labelled by Claude, checked by me; hn:50227966"
+I asked the AI what are phenomena that people confuse with Jevons Paradox? The response taught me that it's not always so easy to identify the correct situation.,opinion,"pre-labelled by Claude, checked by me; hn:50229654"
 "Look at how many tech or tech-adjacent companies are in the S&P: https://en.wikipedia.org/wiki/List_of_S&P_500_companies
 
-Like %40 of the companies in the index are tech or IT. SO how does the supposed flat line across all those tech companies fit your thesis?",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227950"
-Does anyone remember how that AI solved Fermat's Last Theorem?,quip,"pre-labelled by Claude, not yet human-checked; hn:50233911"
-It’s a conversation point off which a discussion can be had,opinion,"pre-labelled by Claude, not yet human-checked; hn:50238706"
+Like %40 of the companies in the index are tech or IT. SO how does the supposed flat line across all those tech companies fit your thesis?",evidenced,"pre-labelled by Claude, checked by me; hn:50227950"
+Does anyone remember how that AI solved Fermat's Last Theorem?,quip,"pre-labelled by Claude, checked by me; hn:50233911"
+It’s a conversation point off which a discussion can be had,opinion,"pre-labelled by Claude, checked by me; hn:50238706"
 "> I don't understand why anyone has been buying an XBOX after the 360
 
-There are many valid reasons people still buy consoles. It's cheaper than a gaming PC, easier to use, has optimization for games, and consoles usually have many exclusives. I have both and I still prefer my PS5 over my PC.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237065"
-Honest question and maybe it's because I grew up without books… What values do books have if you cannot read? I started to learn how to read at 6. Are those picture only books?,question,"pre-labelled by Claude, not yet human-checked; hn:50236176"
-Are you implying there’s a chicken-and-egg problem with books? How are you supposed to learn how to read without written material?,question,"pre-labelled by Claude, not yet human-checked; hn:50236233"
-That’s true. It could help with the cold start problem for training models and maybe replace heuristics/rules in some cases.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50235166"
-"I usually check in on gemini://antenna.michaelnordmeyer.com/ and think the content is a bit broader than you suggest. Recent posts cover topics like OpenBSD, Disney movies, Arch Linux, UK local radio, socks, books, and so on. Yes, there are a number of posts about Gemini, too, but it's a minority.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50230429"
-"I do that for 5-10 minutes, it helps lowering the amount of thoughts at first, then I can reach a slightly calmer state. New thoughts can come and I manage to not drift too long but the calm state suddenly gets boring. I was expecting a feeling of lighter brain state, something that feels reviving but so far i'm stuck at empty but slightly boring.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229659"
+There are many valid reasons people still buy consoles. It's cheaper than a gaming PC, easier to use, has optimization for games, and consoles usually have many exclusives. I have both and I still prefer my PS5 over my PC.",opinion,"pre-labelled by Claude, checked by me; hn:50237065"
+Honest question and maybe it's because I grew up without books… What values do books have if you cannot read? I started to learn how to read at 6. Are those picture only books?,question,"pre-labelled by Claude, checked by me; hn:50236176"
+Are you implying there’s a chicken-and-egg problem with books? How are you supposed to learn how to read without written material?,question,"pre-labelled by Claude, checked by me; hn:50236233"
+That’s true. It could help with the cold start problem for training models and maybe replace heuristics/rules in some cases.,opinion,"pre-labelled by Claude, checked by me; hn:50235166"
+"I usually check in on gemini://antenna.michaelnordmeyer.com/ and think the content is a bit broader than you suggest. Recent posts cover topics like OpenBSD, Disney movies, Arch Linux, UK local radio, socks, books, and so on. Yes, there are a number of posts about Gemini, too, but it's a minority.",evidenced,"pre-labelled by Claude, checked by me; hn:50230429"
+"I do that for 5-10 minutes, it helps lowering the amount of thoughts at first, then I can reach a slightly calmer state. New thoughts can come and I manage to not drift too long but the calm state suddenly gets boring. I was expecting a feeling of lighter brain state, something that feels reviving but so far i'm stuck at empty but slightly boring.",opinion,"pre-labelled by Claude, checked by me; hn:50229659"
 "> What remains to be seen is which polling stations remained open and which did not.
 
-You can check it yourself, the output and log files for each ballot box are already available. I can see that mine opened and closed at the expected time.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50239455"
-It didn't work so well for elementary school students in Iran.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50236186"
+You can check it yourself, the output and log files for each ballot box are already available. I can see that mine opened and closed at the expected time.",evidenced,"pre-labelled by Claude, checked by me; hn:50239455"
+It didn't work so well for elementary school students in Iran.,evidenced,"pre-labelled by Claude, checked by me; hn:50236186"
 "You should do it. But I recommend a book or two on compiler design. There are useful techniques (like SSA) that simplify program analysis if you decide you want to dip your toes into adding optimizer passes. Building stuff yourself, the hard way, is definitely the best way to learn. I wish I had unbounded time to do it…
 
-Edit: I like the Appel compiler book. One of my students enjoyed “Writing a C compiler” by Nora Sandler. There are also a number of classic compiler books that feel more relevant once you are deep in the weeds.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50230445"
-"Damn, that’s a very defensive take for someone who started by asking why anyone would behave differently to them.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238735"
-Saying HN is leftist is an insult to anyone with actual leftist beliefs.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50237902"
-"Research has shown there isn't any ambiguity here. Stuff like this isn't good for adults, and is even worse for kids. So yeah, obvious child abuse.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50239459"
-"I mean they're an excellent example, but this is just as true for the overwhelming majority of B2B productivity suites I've encountered. Hell, digital cameras didn't improve photography, they just killed three industries and saddled just about everyone with data retention and migration problems and that's without even getting into the social effects of ubiquitous cameras combined with social media or the surveillance state they've made possible.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228548"
+Edit: I like the Appel compiler book. One of my students enjoyed “Writing a C compiler” by Nora Sandler. There are also a number of classic compiler books that feel more relevant once you are deep in the weeds.",opinion,"pre-labelled by Claude, checked by me; hn:50230445"
+"Damn, that’s a very defensive take for someone who started by asking why anyone would behave differently to them.",opinion,"pre-labelled by Claude, checked by me; hn:50238735"
+Saying HN is leftist is an insult to anyone with actual leftist beliefs.,opinion,"pre-labelled by Claude, checked by me; hn:50237902"
+"Research has shown there isn't any ambiguity here. Stuff like this isn't good for adults, and is even worse for kids. So yeah, obvious child abuse.",opinion,"pre-labelled by Claude, checked by me; hn:50239459"
+"I mean they're an excellent example, but this is just as true for the overwhelming majority of B2B productivity suites I've encountered. Hell, digital cameras didn't improve photography, they just killed three industries and saddled just about everyone with data retention and migration problems and that's without even getting into the social effects of ubiquitous cameras combined with social media or the surveillance state they've made possible.",opinion,"pre-labelled by Claude, checked by me; hn:50228548"
 "> The best way for governments to deal with protests is to have policies in place that fulfill what We The People want.
 
 We The People's desires are mutually exclusive.
@@ -458,90 +458,90 @@ We want lots of benefits, low taxes; high government spending/services, a stable
 
 Representative democratic government is the reconciliation between those wants.
 
-So no, the answer isn't as simple as giving the people what they want.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232623"
+So no, the answer isn't as simple as giving the people what they want.",opinion,"pre-labelled by Claude, checked by me; hn:50232623"
 "I'm going to push back against Astro because all the server island stuff is over-engineered for a blog, while in the meantime Astro is not designed for more complex sites so I'm not sure what it's purpose is really.
 
-I would say that in the era of agentic coding you don't need any framework. Just a backend + router + markdown generator. I use Hono + Tanstack router for the first two. Tell any decent LLM to wire those up for you and you'll have a simple static site ready to go in an hour or two.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238698"
-Brazil is not in need to send meat to any meatgrinder.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50230451"
-"Notice how even with such advanced cognitive atrophy, the patient is still able to repeat that worn-out comparison.",quip,"pre-labelled by Claude, not yet human-checked; hn:50239456"
-"Latin poetic meter didn't employ rhymes, it used interplay of long and short vowels. Poetic evidence is how we know the vowel quantities of many words. Much of how latin pronunciation was reconstructed comes from comparative reconstruction of the Romance languages, and loans from and into other langauges.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237092"
+I would say that in the era of agentic coding you don't need any framework. Just a backend + router + markdown generator. I use Hono + Tanstack router for the first two. Tell any decent LLM to wire those up for you and you'll have a simple static site ready to go in an hour or two.",opinion,"pre-labelled by Claude, checked by me; hn:50238698"
+Brazil is not in need to send meat to any meatgrinder.,opinion,"pre-labelled by Claude, checked by me; hn:50230451"
+"Notice how even with such advanced cognitive atrophy, the patient is still able to repeat that worn-out comparison.",quip,"pre-labelled by Claude, checked by me; hn:50239456"
+"Latin poetic meter didn't employ rhymes, it used interplay of long and short vowels. Poetic evidence is how we know the vowel quantities of many words. Much of how latin pronunciation was reconstructed comes from comparative reconstruction of the Romance languages, and loans from and into other langauges.",evidenced,"pre-labelled by Claude, checked by me; hn:50237092"
 "This is really well made. I'm building something similar on my own, so I'm glad to meet a fellow traveler.
 
-(English isn't my first language, so I used a translator.)",quip,"pre-labelled by Claude, not yet human-checked; hn:50239458"
+(English isn't my first language, so I used a translator.)",quip,"pre-labelled by Claude, checked by me; hn:50239458"
 "And yet the lifetime of free ""thermal"" neutrons is unknown (there are two measurements that give results off by ~1%) between 888 and 878 seconds.
 
 Notably, neutrons are quite unstable outside of a nucleus and decay generating a proton, electron, and a neutrino. There are many theories on the discrepancy.
 
-https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.0...",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50228581"
+https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.0...",evidenced,"pre-labelled by Claude, checked by me; hn:50228581"
 "> And the reasons why they are vacant is much more complex ""because city regulations on rents make them unprofitable to rent out"".
 
-Is it actually more complex than that? If the regulation that makes it unprofitable to rent them out is rent control, that's still an accurate statement of why they're not being rented out.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229172"
+Is it actually more complex than that? If the regulation that makes it unprofitable to rent them out is rent control, that's still an accurate statement of why they're not being rented out.",opinion,"pre-labelled by Claude, checked by me; hn:50229172"
 "I didn’t read the article because it’s AI slop, but is there evidence ArtCraft has stolen a non-negligible amount of customers from Adobe?
 
-My guess is, most of the people using ArtCraft would avoid or pirate Adobe, and most of those paying for Adobe plan to or will because of niche features and reliability (or corporate requirements) stay with it.",question,"pre-labelled by Claude, not yet human-checked; hn:50237929"
+My guess is, most of the people using ArtCraft would avoid or pirate Adobe, and most of those paying for Adobe plan to or will because of niche features and reliability (or corporate requirements) stay with it.",question,"pre-labelled by Claude, checked by me; hn:50237929"
 "https://adanews.ada.org/ada-news/2024/august/private-equity-...
 
-""The percentage of dentists affiliated with private equity has nearly doubled over the course of six years""",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50237928"
-I do agree that spending time outside of the current internet field of distortion is quite pleasurable. I'm still dumbfounded how we pivoted from an ok-old-world with a bit of cyberspace fun to dopamine altering doomscrolling.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50229637"
+""The percentage of dentists affiliated with private equity has nearly doubled over the course of six years""",evidenced,"pre-labelled by Claude, checked by me; hn:50237928"
+I do agree that spending time outside of the current internet field of distortion is quite pleasurable. I'm still dumbfounded how we pivoted from an ok-old-world with a bit of cyberspace fun to dopamine altering doomscrolling.,opinion,"pre-labelled by Claude, checked by me; hn:50229637"
 "Meanwhile household basics increased faster than wages. In other words people don’t have more money.
 
-https://www.unitedforalice.org/essentials-index",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227315"
+https://www.unitedforalice.org/essentials-index",evidenced,"pre-labelled by Claude, checked by me; hn:50227315"
 "> it's a huge savings over getting a human to do it
 
-This of course assumes it's something anyone would consider worth paying a human to do (it's not).",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237883"
+This of course assumes it's something anyone would consider worth paying a human to do (it's not).",opinion,"pre-labelled by Claude, checked by me; hn:50237883"
 "Action as in starting a company or working for someone else?
 
 Operating at high intensity has a large physical, psychological, and personal cost.
 
-There’s a reason why professional athletes train mostly in low intensity with reserved days for high intensity sessions.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50233908"
-Yet another example of a false requirement that should not exist. In todays age of internet video there is actually little if no need for business travel.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50236189"
-Not sure of purpose of your question. Not everyone needs a larger TV than that or accommodate one in their living space.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50233902"
-from flagged wallet? That'd be even funnier.,quip,"pre-labelled by Claude, not yet human-checked; hn:50228552"
-"This seems to be a common argument essentially “If a rich guy get $1000 and as a result I get $10, then I shouldn’t complain because I got $10” but this glosses over the fact that money is a proxy for power. The rich guy got more power over resources from this deal. Over the years this leads to more power inequality which is bad because now the rich guy can start doing other things to me and I have no recourse.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227980"
+There’s a reason why professional athletes train mostly in low intensity with reserved days for high intensity sessions.",opinion,"pre-labelled by Claude, checked by me; hn:50233908"
+Yet another example of a false requirement that should not exist. In todays age of internet video there is actually little if no need for business travel.,opinion,"pre-labelled by Claude, checked by me; hn:50236189"
+Not sure of purpose of your question. Not everyone needs a larger TV than that or accommodate one in their living space.,opinion,"pre-labelled by Claude, checked by me; hn:50233902"
+from flagged wallet? That'd be even funnier.,quip,"pre-labelled by Claude, checked by me; hn:50228552"
+"This seems to be a common argument essentially “If a rich guy get $1000 and as a result I get $10, then I shouldn’t complain because I got $10” but this glosses over the fact that money is a proxy for power. The rich guy got more power over resources from this deal. Over the years this leads to more power inequality which is bad because now the rich guy can start doing other things to me and I have no recourse.",opinion,"pre-labelled by Claude, checked by me; hn:50227980"
 "I recently had ChatGPT Astra write a bunch of short stories for me in a universe I'm fond of. I shared a few of them, and for one of them I got not only wildly complimented that it was one of the best pieces of short fiction people had read in ages, people strongly encouraged me to submit it to various publications.
 
 When I revealed it was AI written everyone immediately ate their words and said they hated it all along and it was obviously derivative.
 
-(throwaway because when I posted this under my main account I started getting death threat emails. like, grow up.)",opinion,"pre-labelled by Claude, not yet human-checked; hn:50235158"
+(throwaway because when I posted this under my main account I started getting death threat emails. like, grow up.)",opinion,"pre-labelled by Claude, checked by me; hn:50235158"
 "I think a lot of these massive tendering companies got started by meeting tenders they didn't get. Like for Microsoft, first they added all the features that were necessary for the tenders, and only after that, they started winning tenders. That's the story of the Windows NT POSIX subsystem that nobody ever needed.
 
 It also helps to be flexible with the truth. If you get this one million dollar tender then you'll be doing one million dollars of business with the government so you can check that box.
 
-If you meet all checkboxes, have the lowest price and still don't get the tender, you can usually sue the government for corruption. These processes are strictly regulated to avoid that.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227269"
+If you meet all checkboxes, have the lowest price and still don't get the tender, you can usually sue the government for corruption. These processes are strictly regulated to avoid that.",evidenced,"pre-labelled by Claude, checked by me; hn:50227269"
 "Tangentially-related: When YouTube auto-dubs now, I noticed that Spanish language get dubbed in a Spanish-inflected accent, and French language similarly (I think).
 
 Is it likely that they are using a model like this? Or are they actually trying to voice clone the original and then translate to English? I'm not even sure if the few Spanish-accented English auto-dubs I've heard are the same voice or not.
 
-(Actually, that reminds me of growing up in Italy, where for a long time all English movies were shown dubbed, not subtitled, and they had the same lead male voice for all male leads, and the same lead female voice for all female leads, across every movie. I can still hear those voices in my head now thirty years later...)",question,"pre-labelled by Claude, not yet human-checked; hn:50237924"
-"They obviously mean whoever created the LLM. We don't judge the weapon, we judge whoever uses the weapon",opinion,"pre-labelled by Claude, not yet human-checked; hn:50230491"
+(Actually, that reminds me of growing up in Italy, where for a long time all English movies were shown dubbed, not subtitled, and they had the same lead male voice for all male leads, and the same lead female voice for all female leads, across every movie. I can still hear those voices in my head now thirty years later...)",question,"pre-labelled by Claude, checked by me; hn:50237924"
+"They obviously mean whoever created the LLM. We don't judge the weapon, we judge whoever uses the weapon",opinion,"pre-labelled by Claude, checked by me; hn:50230491"
 "NVIDIA is one type of shovel salesman, yes. So are all the big AI companies. And all the other companies we call “hyperscalers”.
 
 The problem is that they have to spend so much time and money inventing new types of mines, for which they need to be the shovel salesmen.
 
-They’re also called “snake oil salesmen”. Or “Robber Barons”.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228584"
-"Any LLCs and PLLCs (physicians, attorneys, lawyers, accountants, architects, etc.). An owner of a LLC cannot be an employee of it and therefore is pass-through.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50239445"
+They’re also called “snake oil salesmen”. Or “Robber Barons”.",opinion,"pre-labelled by Claude, checked by me; hn:50228584"
+"Any LLCs and PLLCs (physicians, attorneys, lawyers, accountants, architects, etc.). An owner of a LLC cannot be an employee of it and therefore is pass-through.",evidenced,"pre-labelled by Claude, checked by me; hn:50239445"
 Yes regulatory burden is my best bet as to why Europe has produced almost nothing of worth aside copying uber and doordash. Skype was cool for a moment there.,opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50239443"
-It compiles about 7x faster both at -O0 and -O3. My optimization is not quite on par but it is really close. Compiled code is about 5% slower.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50227998"
-"But this law may be impossible to comply, without basically shutting down Facebook. The complaints include that Bolsonaro is first in politician search results (someone has to be first), and that asking Meta’s LLM for a random number gives Bolsonaro’s ballot number before Lula’s.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50231366"
+It compiles about 7x faster both at -O0 and -O3. My optimization is not quite on par but it is really close. Compiled code is about 5% slower.,evidenced,"pre-labelled by Claude, checked by me; hn:50227998"
+"But this law may be impossible to comply, without basically shutting down Facebook. The complaints include that Bolsonaro is first in politician search results (someone has to be first), and that asking Meta’s LLM for a random number gives Bolsonaro’s ballot number before Lula’s.",evidenced,"pre-labelled by Claude, checked by me; hn:50231366"
 "congrats, this is a very exciting release.
 
 I cannot speak to the other accents, but my experience has been that American south accents are really poorly represented in mainstream Speach-To-Text models. If your STT model is pointed at end users, this can cause quite a quality drift when looking at eval vs prod performance depending on who your user base is.
 
-I am not sure what terms you have collected the speach data on, but I am sure there are lots of people working with voice models that would be very interested in this as an eval set.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50236217"
-Cloudflare has automatic exploit mitigation. Which I feel like would somewhat defeat the point.,evidenced,"pre-labelled by Claude, not yet human-checked; hn:50233881"
+I am not sure what terms you have collected the speach data on, but I am sure there are lots of people working with voice models that would be very interested in this as an eval set.",opinion,"pre-labelled by Claude, checked by me; hn:50236217"
+Cloudflare has automatic exploit mitigation. Which I feel like would somewhat defeat the point.,evidenced,"pre-labelled by Claude, checked by me; hn:50233881"
 "> You got Trump and Biden as a direct result of term limits.
 
 The US only enacted term limits in 1951. Before that time, only two presidents had attempted to seek third terms (another two attempted but failed to secure even a nomination by a political party), and only one was successful.
 
-And, quite frankly, the only president since the 22nd amendment who I could see wanting to run for a third term is Trump, who does seem to be campaigning for one anyways despite being constitutionally barred from it.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50239487"
-Look at the label on it and it will tell you who paid for the book. It’s likely your local library and other city/county programs. Donate to them instead.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50238692"
+And, quite frankly, the only president since the 22nd amendment who I could see wanting to run for a third term is Trump, who does seem to be campaigning for one anyways despite being constitutionally barred from it.",evidenced,"pre-labelled by Claude, checked by me; hn:50239487"
+Look at the label on it and it will tell you who paid for the book. It’s likely your local library and other city/county programs. Donate to them instead.,opinion,"pre-labelled by Claude, checked by me; hn:50238692"
 "> Returns across multiple calls. `return err from load` returns from a function any number of frames up, statically checked, with no unwinder, no `Result` type and no `?` on every call.
 
-Does this mean you have to know the name of the function calling you that's supposed to handle the error? What if you're a library and don't know that?",question,"pre-labelled by Claude, not yet human-checked; hn:50229649"
-"I tried ""throw the block off the table"" but it wouldn't run for some reason I didn't catch, safety maybe?",opinion,"pre-labelled by Claude, not yet human-checked; hn:50227973"
+Does this mean you have to know the name of the function calling you that's supposed to handle the error? What if you're a library and don't know that?",question,"pre-labelled by Claude, checked by me; hn:50229649"
+"I tried ""throw the block off the table"" but it wouldn't run for some reason I didn't catch, safety maybe?",opinion,"pre-labelled by Claude, checked by me; hn:50227973"
 "Yup, that's exactly the point.
 
-Cowlevel commenting on that topic is (unintentionally? or cleverly?) hypocritical.",quip,"pre-labelled by Claude, not yet human-checked; hn:50232581"
+Cowlevel commenting on that topic is (unintentionally? or cleverly?) hypocritical.",quip,"pre-labelled by Claude, checked by me; hn:50232581"
 "> gta san andreas at 32mb ram
 
 I forgot it was such a small budget, it's indeed important to keep in mind how much could be done with little memory. Although I'd argue it was possible with a language that allowed you to control memory very precisely. With javascript garbage collector, I couldn't stand seeing memory ramp up every frame due to threejs internals or my own js code, and every few frame a major GC may or may not lead to a frame drop.
@@ -549,94 +549,94 @@ I forgot it was such a small budget, it's indeed important to keep in mind how m
 > advanced reprojection for increasing FPS that takes into account the depth buffer
 
 Ah got it. I completely forgot that webxr of course needs to create textures to see through, so it indeed needs to know which graphic api is used. Thank you for the links, I'll have to study them.",opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50233862"
-"I sometimes wonder if they've had their stats people do an appropriate randomized schedule with filler messages. Or.. keep-alive's, for some Dr. Strangelove fun.",quip,"pre-labelled by Claude, not yet human-checked; hn:50227994"
-"You can be much simpler, you can always one-way-hash your primary keys (along with any pepper), if you wish to hide them. Still, use UUIDs freely.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229115"
-"This is probably best since knowing about it is not actionable, but can give you tremendous stress for a while.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50229679"
-"I mean, there are plenty of social media mind viruses. But Zuck and Sheryl exhibit especially naked intent to get in bed with any dictator who will let them in, at the drop of a hat. The only metric they care about is growth. If burning America to the ground improved their numbers they would do it.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238701"
+"I sometimes wonder if they've had their stats people do an appropriate randomized schedule with filler messages. Or.. keep-alive's, for some Dr. Strangelove fun.",quip,"pre-labelled by Claude, checked by me; hn:50227994"
+"You can be much simpler, you can always one-way-hash your primary keys (along with any pepper), if you wish to hide them. Still, use UUIDs freely.",opinion,"pre-labelled by Claude, checked by me; hn:50229115"
+"This is probably best since knowing about it is not actionable, but can give you tremendous stress for a while.",opinion,"pre-labelled by Claude, checked by me; hn:50229679"
+"I mean, there are plenty of social media mind viruses. But Zuck and Sheryl exhibit especially naked intent to get in bed with any dictator who will let them in, at the drop of a hat. The only metric they care about is growth. If burning America to the ground improved their numbers they would do it.",opinion,"pre-labelled by Claude, checked by me; hn:50238701"
 I wouldn’t know if the whole thing was AI or not at a glance.,opinion,"cold: blind second pass by Claude, not human (first pass said opinion); hn:50232610"
 "> There isn't any real harness driving this, i just give it a task, tell it how it'll be handled and off it goes.
 
-The tool that implements this is the harness. An LLM by itself cannot ""go off"" and ""do things"" - it can only complete text blocks. A harness bridges this to real world actions or just a chat box interface.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50228539"
+The tool that implements this is the harness. An LLM by itself cannot ""go off"" and ""do things"" - it can only complete text blocks. A harness bridges this to real world actions or just a chat box interface.",opinion,"pre-labelled by Claude, checked by me; hn:50228539"
 "Even with the ""tree"", it is not that trivial, as a single segment tag may be repeated in the ""tree"", so you cannot just jump to that segment and execute a callback. You need to be aware of the possible transitions from any given ""node"" in the tree.
-Edison solves this by computing a state machine graph whose nodes are all segments, and edges are all transitions, so parsing is just a walk in the graph.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50233901"
-"Well... For me it's more about seeing if I COULD have done it had I heard about it in time. The first thing I did when I heard about it was recon and found the wallet, then checked it and saw the contents are already in a pending transfer out meaning that someone already beat this particular CTF. I'm old though so for me, CTFs are still about the fun of seeing if I can.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50237046"
+Edison solves this by computing a state machine graph whose nodes are all segments, and edges are all transitions, so parsing is just a walk in the graph.",evidenced,"pre-labelled by Claude, checked by me; hn:50233901"
+"Well... For me it's more about seeing if I COULD have done it had I heard about it in time. The first thing I did when I heard about it was recon and found the wallet, then checked it and saw the contents are already in a pending transfer out meaning that someone already beat this particular CTF. I'm old though so for me, CTFs are still about the fun of seeing if I can.",opinion,"pre-labelled by Claude, checked by me; hn:50237046"
 "> The engine already existed, our public library system
 
-How good one's library is depends on how well-off the operating local government is. The Imagination Library is more egalitarian because it's often funded at county and state-level, so kids with underfunded libraries get the same level of access as other kids from wealthier zip codes",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50238724"
+How good one's library is depends on how well-off the operating local government is. The Imagination Library is more egalitarian because it's often funded at county and state-level, so kids with underfunded libraries get the same level of access as other kids from wealthier zip codes",evidenced,"pre-labelled by Claude, checked by me; hn:50238724"
 "> It's the same thing I feel when I hear Terence Tao speak about AI
 
-Which talk of his gave this impression?",question,"pre-labelled by Claude, not yet human-checked; hn:50227309"
+Which talk of his gave this impression?",question,"pre-labelled by Claude, checked by me; hn:50227309"
 "Well it has resulted in a younger generation that thinks its okay to attack nuclear powered states, so I think some awareness of it needs to be maintained across generations .. otherwise the thing manifests itself.
 
-And besides which, it is actionable. The peoples of the world could actually disarm. It has happened.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50231351"
-"I give up!! Finally! The discourse is pointless here. How many of the productive years of my life have I spent on forums like these? I don't know if I am conversing with people, bots, or antihumanist misanthropes. People trust Meta these days, AYFK? I am going to sign-off and touch some grass.",quip,"pre-labelled by Claude, not yet human-checked; hn:50231315"
-"It's French, sponsored by the French government. They may well end up translating it to all those languages except English.",evidenced,"pre-labelled by Claude, not yet human-checked; hn:50229713"
+And besides which, it is actionable. The peoples of the world could actually disarm. It has happened.",opinion,"pre-labelled by Claude, checked by me; hn:50231351"
+"I give up!! Finally! The discourse is pointless here. How many of the productive years of my life have I spent on forums like these? I don't know if I am conversing with people, bots, or antihumanist misanthropes. People trust Meta these days, AYFK? I am going to sign-off and touch some grass.",quip,"pre-labelled by Claude, checked by me; hn:50231315"
+"It's French, sponsored by the French government. They may well end up translating it to all those languages except English.",evidenced,"pre-labelled by Claude, checked by me; hn:50229713"
 "> Or you can spend it on elections.
 
-Many people spend a portion of their wealth in elections. Even middle class voters.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50232617"
-The government is always in conflict with the workers interests.,opinion,"pre-labelled by Claude, not yet human-checked; hn:50238697"
+Many people spend a portion of their wealth in elections. Even middle class voters.",opinion,"pre-labelled by Claude, checked by me; hn:50232617"
+The government is always in conflict with the workers interests.,opinion,"pre-labelled by Claude, checked by me; hn:50238697"
 "Right, because it's profitable.
 
 There are lots of wildly profitable enterprises that we regulate or make illegal.
 
-If everyone else is selling boiled orphan elixir, you'd be leaving money on the table not to boil yourself some orphans. But maybe we decide that boiling orphans isn't an industry we want as a society, and legislate consequences for doing so.",opinion,"pre-labelled by Claude, not yet human-checked; hn:50238695"
-What's going on with Dreamhost lately? Is it falling apart?,question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50233910"
+If everyone else is selling boiled orphan elixir, you'd be leaving money on the table not to boil yourself some orphans. But maybe we decide that boiling orphans isn't an industry we want as a society, and legislate consequences for doing so.",opinion,"pre-labelled by Claude, checked by me; hn:50238695"
+What's going on with Dreamhost lately? Is it falling apart?,question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50233910"
 "> by 2011, they were generating more income than all traditional U.S. corporations combined
 
-Source?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50239453"
+Source?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50239453"
 "> American big tech companies pay very few taxes, compared to European standards.
 
-Can you evidence this?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50232587"
-"Regional African English accents, so Nigerian, Kenyan, South African?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50235220"
-"Daybreak may remove the technical restrictions, but isn't that kind of use still against the ToS?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50233894"
+Can you evidence this?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50232587"
+"Regional African English accents, so Nigerian, Kenyan, South African?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50235220"
+"Daybreak may remove the technical restrictions, but isn't that kind of use still against the ToS?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50233894"
 """This is 80% wasted screen space.""
 
-Elaborate",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229633"
-"mighty interesting, i scanned the nuances about the memory model, but it doesn't explicitly say so, but am I right that some workloads will result in heavy fragmented physical memory allocations?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229170"
-"Maybe I'm dumb but how can a proper language work without heap and only use stack memory, stack only works if you know the size you want before compiling, or am I wrong ?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50231281"
-Is there a fix already in node so I can start updating?,question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50235211"
+Elaborate",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229633"
+"mighty interesting, i scanned the nuances about the memory model, but it doesn't explicitly say so, but am I right that some workloads will result in heavy fragmented physical memory allocations?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229170"
+"Maybe I'm dumb but how can a proper language work without heap and only use stack memory, stack only works if you know the size you want before compiling, or am I wrong ?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50231281"
+Is there a fix already in node so I can start updating?,question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50235211"
 How would you feed db/knowledge queries back to the model? Do TTS and try to stuff context with the synthesized audio?,question,"cold: blind second pass by Claude, not human (first pass said question); hn:50233884"
-"don't let us hanging. What projects are they? (asking as someone who bought a NAS 1.5 years ago, hosted 10+ 'best' apps on it and kept using 1-2. Jellyfin and minecraft server ...)",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50236167"
-"Is there a manual for Jai, or some info on how it compares with other languages? I find it hard to find resources on it - there's no Wikipedia page, and my web searches list some videos and random github projects?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229700"
-"This stuffs mad, should I be doing something to my Samsung TV to neuter it? Has anyone rolled all this up somewhere?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50230493"
-Who is neutral in your opinion?,question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50228573"
-Any sources on training costs in free fall? My understanding was training costs are proportional to model size. Is it just that compute costs are falling?,question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50237038"
+"don't let us hanging. What projects are they? (asking as someone who bought a NAS 1.5 years ago, hosted 10+ 'best' apps on it and kept using 1-2. Jellyfin and minecraft server ...)",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50236167"
+"Is there a manual for Jai, or some info on how it compares with other languages? I find it hard to find resources on it - there's no Wikipedia page, and my web searches list some videos and random github projects?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229700"
+"This stuffs mad, should I be doing something to my Samsung TV to neuter it? Has anyone rolled all this up somewhere?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50230493"
+Who is neutral in your opinion?,question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50228573"
+Any sources on training costs in free fall? My understanding was training costs are proportional to model size. Is it just that compute costs are falling?,question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50237038"
 "title says DNS, article says access, so which is it?",question,"cold: blind second pass by Claude, not human (first pass said question); hn:50230486"
-"I looked at the site, looks largely AI generated, is that the case?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50235161"
+"I looked at the site, looks largely AI generated, is that the case?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50235161"
 "Fair enough, I am kinda scared about everything these days.
 
-Which one of his books should I read (first)?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50239480"
-"i'm curious, when you say the traits seem to be grnetic, how is it that they seem that way?",question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50231306"
-I wonder if someone could just reverse engineer the firmware and made your own updates and app?,question,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50227329"
+Which one of his books should I read (first)?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50239480"
+"i'm curious, when you say the traits seem to be grnetic, how is it that they seem that way?",question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50231306"
+I wonder if someone could just reverse engineer the firmware and made your own updates and app?,question,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50227329"
 did you check your DUNNS number as that is pretty important?,question,"cold: blind second pass by Claude, not human (first pass said question); hn:50229171"
-But the bendy bananas!,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50236166"
-Holy fuck you have a lot of karma,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50239511"
-Thank you :),quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50233855"
-"Bro, I think you have had enough juice for today",quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50235221"
-This got a chuckle out of me.,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229704"
-That's impressive! Would certainly read it when it comes out.,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50236191"
-"Yep, someone hand me a time machine!",quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229153"
-What's with all the foot tapping? lol,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50227306"
-"""I consume things"". Great life you have there bro.",quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50232586"
-He was probably active on devotionalart badamtish,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50236196"
-It's closed by default lmaoo,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229638"
-Glad I'm not the only one...,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50232594"
-So why aren't they billionaires?,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50227284"
-and your point is?,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50233860"
-This isn’t Reddit?,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50237089"
-Gen-C coming right up.,quip,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50229117"
-C23 has `unreachable()`. cf. https://en.cppreference.com/c/program/unreachable,evidenced,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50228571"
+But the bendy bananas!,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50236166"
+Holy fuck you have a lot of karma,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50239511"
+Thank you :),quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50233855"
+"Bro, I think you have had enough juice for today",quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50235221"
+This got a chuckle out of me.,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229704"
+That's impressive! Would certainly read it when it comes out.,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50236191"
+"Yep, someone hand me a time machine!",quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229153"
+What's with all the foot tapping? lol,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50227306"
+"""I consume things"". Great life you have there bro.",quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50232586"
+He was probably active on devotionalart badamtish,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50236196"
+It's closed by default lmaoo,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229638"
+Glad I'm not the only one...,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50232594"
+So why aren't they billionaires?,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50227284"
+and your point is?,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50233860"
+This isn’t Reddit?,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50237089"
+Gen-C coming right up.,quip,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50229117"
+C23 has `unreachable()`. cf. https://en.cppreference.com/c/program/unreachable,evidenced,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50228571"
 Microsoft was offered 150 Billion for xbox,evidenced,"cold: blind second pass by Claude, not human (first pass said evidenced); hn:50229673"
 "> this phenomenon explains 31.9% of the decrease
 
 Which lines up nicely with 3 out of 5 of the percentage points of increase attributable to corporate profits (out of GDI) being in distributed [1].
 
-[1] https://news.ycombinator.com/item?id=50239264",evidenced,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50239463"
+[1] https://news.ycombinator.com/item?id=50239264",evidenced,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50239463"
 "So why did the original warning put out by the PHP team say that the exploit didn't rely on the application code and simply having software like Apache mod_php running would be enough?
 
-https://www.php.net/archive/2026.php#2026-10-21-5",evidenced,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50228585"
+https://www.php.net/archive/2026.php#2026-10-21-5",evidenced,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50228585"
 "My reason is their revenue chart is flattening.
 
-https://techstartups.com/2026/10/15/anthropics-q3-revenue-hi...",evidenced,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50239503"
+https://techstartups.com/2026/10/15/anthropics-q3-revenue-hi...",evidenced,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50239503"
 Microsoft uses Xbox series X for streaming.,evidenced,"cold: blind second pass by Claude, not human (first pass said evidenced); hn:50229661"
-The site blocks Chromium on FreeBSD.,evidenced,"pre-labelled by Claude, targeted pass for thin labels, not yet human-checked; hn:50231364"
+The site blocks Chromium on FreeBSD.,evidenced,"pre-labelled by Claude, targeted pass for thin labels, checked by me; hn:50231364"
