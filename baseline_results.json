@@ -1,0 +1,255 @@
+{
+  "model": "facebook/bart-large-mnli",
+  "n": 43,
+  "seed": 42,
+  "held_out": true,
+  "used_definitions": true,
+  "scores": {
+    "n": 43,
+    "accuracy": 0.32558139534883723,
+    "f1_macro": 0.2727272727272727,
+    "per_label": {
+      "evidenced": {
+        "precision": 0.25,
+        "recall": 0.7,
+        "f1": 0.3684210526315789,
+        "support": 10
+      },
+      "opinion": {
+        "precision": 0.5,
+        "recall": 0.05,
+        "f1": 0.09090909090909091,
+        "support": 20
+      },
+      "question": {
+        "precision": 0.46153846153846156,
+        "recall": 1.0,
+        "f1": 0.631578947368421,
+        "support": 6
+      },
+      "quip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "support": 7
+      }
+    }
+  },
+  "predictions": [
+    {
+      "text": "i'm curious, when you say the traits seem to be grnetic, how is it that they seem that way?",
+      "gold": "question",
+      "predicted": "question"
+    },
+    {
+      "text": "The latest of the three commits in the repo:\n\n> 413,963 files changed\n\n> +2,908,538\n\n> -3,423,007\n\nHow is anyone supposed to audit that? I doubt you\u2019ve looked at even a small fraction of the code, if any. Especially since this commit is two days after the second. Pure vibes.",
+      "gold": "evidenced",
+      "predicted": "opinion"
+    },
+    {
+      "text": "But the bendy bananas!",
+      "gold": "quip",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Pyrefly and Zuban are faster. Pyrefly and Zuban use less memory. Pyrefly and Zuban score higher on the type system conformance test.\n\nUse whatever tools you want, but don't kid yourself. There's a reason Google adopted Pyrefly.",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Uh...\n\nSeems like rage is maybe a tad misplaced?",
+      "gold": "quip",
+      "predicted": "question"
+    },
+    {
+      "text": "> There isn't any real harness driving this, i just give it a task, tell it how it'll be handled and off it goes.\n\nThe tool that implements this is the harness. An LLM by itself cannot \"go off\" and \"do things\" - it can only complete text blocks. A harness bridges this to real world actions or just a chat box interface.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Not unpopular enough to tank Tesla sales (like in other countries) or not be pubic enemy #1 after literally stealing America's government data.\n\nHe did screw up Twitter/X enough that a new competitor managed to make a blip on the map, though. So that leads some credence.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "It's because you can \"program\" it in casual English. No code, no training runs.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "It'd be trivial to prove and yet it has never been proven. I'll give you three guesses why, and the first two don't count.",
+      "gold": "opinion",
+      "predicted": "opinion"
+    },
+    {
+      "text": "It didn't work so well for elementary school students in Iran.",
+      "gold": "evidenced",
+      "predicted": "question"
+    },
+    {
+      "text": "Notice how even with such advanced cognitive atrophy, the patient is still able to repeat that worn-out comparison.",
+      "gold": "quip",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "will this be recorded? it sounds interesting!",
+      "gold": "question",
+      "predicted": "question"
+    },
+    {
+      "text": "> A truly skilled developer who makes a genuine attempt should be expected to solve 99% of their tasks within the same business day as of October 2026.\n\nAgreed, and in fact even pre-AI good development teams weren't limited by speed of code generation (how to build it), but rather making the right thing (what to build).",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "That's quite an approach, thanks for sharing. I still don't think it mitigates restoring within the US since they claim to have search rights within 100 miles of any international airport. Personally, I try not to fall into the trap of believing I need retention of data that doesn't fall into a few categories, most of which I would assume I will already be sharing with authorities through taxes, etc.",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "I used to point this out whenever UBI came up for discussion.\n\nPeople got very very angry at me for pointing this out.\n\nSo I stopped doing it.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Why exSDF member? Your account is surely still there waiting for you!",
+      "gold": "question",
+      "predicted": "question"
+    },
+    {
+      "text": "Saying HN is leftist is an insult to anyone with actual leftist beliefs.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "That\u2019s true. It could help with the cold start problem for training models and maybe replace heuristics/rules in some cases.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "I\u2019m not investing, I\u2019m donating. I don\u2019t care who uses the code once it\u2019s useful and released. Anyone being able to use it and not needing a commercial solution is the return on investment.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "I'm always amazed at how you could fly to the Moon with such basic controls. The Apollo capsule controls compared to the Dragon controls really feels like the difference between a Wright Flyer and a modern glass cockpit airplane.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "did you check your DUNNS number as that is pretty important?",
+      "gold": "question",
+      "predicted": "question"
+    },
+    {
+      "text": "Gen-C coming right up.",
+      "gold": "quip",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "> Kyle Rittenhouse, etc. are examples of the counterweight ready to reign in protests gone feral.\n\nI mean yes, but that's exactly down to country \"personality\" and conventions which I was hinting at. France values the right to protest almost above the right to shrug. However its not like the french police are going to be nice to you because you're protesting, french police are _bastards_.\n\nIf you wander around with a gun in france, and you're not hunting, the police _will_ shoot you, and more importantly, in the spirit of Libert\u00e9, \u00e9galit\u00e9, fraternit\u00e9, they'll shoot you even if you're white.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "I assume that devices unable to do certificate revocation will also not do certificate pinning.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Dude they just did. If you didn't understand it then you aren't gonna be able to use it.",
+      "gold": "quip",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "I remember one pivotal moment in college being when I was given an assignment, and I asked if some of the restrictions on the task could be removed. The teacher told me what I really did was just ask for the hard version of the problem.\n\nI asked her what she meant, and instead of telling me, she just laughed and said go ahead, remove the restrictions and see for myself.\n\nShe was right! Without the restrictions there were so many more possibilities I had to work much harder to complete the assignment. It was still fun though and I learned more than just the assignment from that lesson.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "\"\u2026tally up all the \"wealth\" periodically, and then \"distributing\" it\u2026\"\n\nSounds a bit like taxation.",
+      "gold": "quip",
+      "predicted": "question"
+    },
+    {
+      "text": "Not sure why people would downvote this. Your not allowed to criticize any AI company on this site it seems.",
+      "gold": "opinion",
+      "predicted": "question"
+    },
+    {
+      "text": "The site blocks Chromium on FreeBSD.",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "I mean they're an excellent example, but this is just as true for the overwhelming majority of B2B productivity suites I've encountered. Hell, digital cameras didn't improve photography, they just killed three industries and saddled just about everyone with data retention and migration problems and that's without even getting into the social effects of ubiquitous cameras combined with social media or the surveillance state they've made possible.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Cloudflare has automatic exploit mitigation. Which I feel like would somewhat defeat the point.",
+      "gold": "evidenced",
+      "predicted": "question"
+    },
+    {
+      "text": ">most movies/TV are still 24Hz aren't they?\n\nThey are and that's part of the reason why it matters.\n\n144/24 = 6\n\n120/24 = 5\n\n60/24 = 2.5\n\nTVs compensate by showing you every 2nd image longer causing a slight but noticeable judder effect. Panning shots don't look smooth etc. Much like font kerning once you see it you can't unsee it.\n\nPlus ofc other uses like gaming. And frankly I also didn't want to set up a home theater with half the tech modern, the other half not. A bit like you want your PC screen and GPU to be paired well and not a 1080p screen with a 5090...",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "that's interesting! when i was a child I could eat canned tuna as well but sadly no longer.",
+      "gold": "quip",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Uh, I wouldn't constrain them like that. More like they leverage the CIA, among others.",
+      "gold": "opinion",
+      "predicted": "question"
+    },
+    {
+      "text": "The cost of training/developing a frontier model will continue to rise. The cost of inference will continue to fall. Companies don't buy models as such, they buy inference. As inference becomes a larger and larger business expense companies will optimize that spending, routing work to the \"capable enough\" least cost tokens.\n\nThere is a lot of human work that can be offset with tokens. On the other hand, the amount of work for the highest intelligence models will remain limited - corporate strategy, major decisions, etc. are just not as frequent.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "> American big tech companies pay very few taxes, compared to European standards.\n\nCan you evidence this?",
+      "gold": "question",
+      "predicted": "question"
+    },
+    {
+      "text": "Haha, in my case, it only renders when frames are needed. Otherwise it's basically an image at 0fps.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "You seem to give too much credit for these companies and too less credit for governments.\n\nFirst of all, most companies just want to make money, with minimal risk. It's significantly easier to make money when you are at worst doing grey area stuff and stay mostly legal (or even \"better\" is to lobby your thing into being legal). And any info known by more than 2 people is no longer a secret, and you ain't paying enough to your employees to lie under oath for their employer. So no, I don't believe it's happening all too often, and even if it does happen it's mostly out of ignorance, not a deliberate attempt to go against the law.",
+      "gold": "opinion",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Agreed. It's interesting to me to read about math homework being graded, because in my college math courses (at RPI in the late-aughts), homework was optional. It was \"assigned\" for students who needed more practice, but not required for those who didn't. It had no bearing on your grades at all.\n\nI distinctly remember for the calculus courses, they told you a set of textbooks were required. By the end of the semester, I hadn't even peeled off the shrink wrap. The professor only used the books to cherry-pick homework problems from, and I personally never felt the need to complete them. I get that everyone learns differently, but making everyone buy that book never really sat well with me.",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "Yep this one gets me too. Mac book Pro M5 latest OS. Happened on my air also.",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    },
+    {
+      "text": "don't let us hanging. What projects are they? (asking as someone who bought a NAS 1.5 years ago, hosted 10+ 'best' apps on it and kept using 1-2. Jellyfin and minecraft server ...)",
+      "gold": "question",
+      "predicted": "question"
+    },
+    {
+      "text": "you don't like the ads, gambling apps, and similar? /s\n\nWhat might help is non-software-first companies valuing developers and engineers more, enough that we could earn a reasonable living which building actually cool things. Not sure how the economics works out on the other side. Can these companies make enough money to support this vision?",
+      "gold": "opinion",
+      "predicted": "question"
+    },
+    {
+      "text": "All it's doing is allocating address space. And 64 bits means you have an astronomical amount of that. It only needs to become actual memory when you use it. A page at a time.",
+      "gold": "evidenced",
+      "predicted": "evidenced"
+    }
+  ]
+}
