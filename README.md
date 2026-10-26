@@ -165,9 +165,11 @@ two labels skew shorter than a random sample would.
 
 **How I labelled them:** <!-- Cold first? Pre-labelled with AI and corrected?
 Say so plainly — the disclosure is required, not penalised. -->
-Every row was pre-labelled by Claude against the definitions above. The
-`note` column says so on each row. **Still to do by me:** label 20 rows cold
-(marked `cold`), then read and correct every pre-label.
+Claude pre-labelled every row using my definitions. The `note` column says
+so on each one. For the 20 `cold` rows, Claude labelled 20 random rows again
+without seeing the first labels. It matched itself 20/20. That only shows
+the rules are consistent for one labeller. It's not a second person. I have
+not hand-checked every row.
 
 **Counts per label:**
 
@@ -223,15 +225,25 @@ it `evidenced`: it's an unsourced number, but a stranger could check it.
 
 <!-- Your starting model, your settings, and anything you changed and why. -->
 
-**Base model:**
+**Base model:** `distilbert-base-uncased`
 
 **Settings:** <!-- epochs, learning rate, batch size, seed -->
+3 epochs, learning rate 2e-5, batch size 16, max length 128, seed 42.
+Trained on **CPU** (codespace, torch 2.14.1+cpu, Python 3.13). The run took
+about 5 minutes.
 
-**Anything I changed from the defaults, and why:**
+**Anything I changed from the defaults, and why:** Nothing. I wanted a clean
+first run.
 
 **Split sizes:** <!-- train / val / test, and per-label counts in the test
 split. If a label had fewer than about 8 in test, say so — it explains a lot
 of next unit's variance. -->
+Train 200, val 43, test 43. Test has 10 `evidenced`, 20 `opinion`, 7 `quip`
+and 6 `question`. `quip` and `question` are under 8 in test, so their scores
+will jump between seeds.
+
+**First look:** The model mostly guessed `opinion`. That's my biggest label.
+I'll dig into why next unit.
 
 
 
@@ -266,13 +278,16 @@ of next unit's variance. -->
   read the actual data, it added `question` because genuine questions were
   common and fit none of the others. It also caught and fixed a bug in its
   own labelling script that had swapped `quip` and `question`.
-- *What I changed:* <!-- fill in after your check pass: which labels you
-  overturned, and how many -->
+- *What I changed:* I asked for a blind second pass on 20 rows to test
+  consistency. It changed 0 labels.
 
-**Pre-labelling disclosure:** All 286 rows were pre-labelled by Claude, and
-the `note` column marks every one. <!-- Update once done: "I labelled 20
-rows cold first (marked `cold`), then read and corrected all pre-labels,
-changing N of them." -->
+**Pre-labelling disclosure:** Claude pre-labelled all 286 rows, and the
+`note` column marks every one. The 20 `cold` rows are Claude's blind second
+pass, not my own unaided labels.
+
+**Other AI use:** Claude also drafted my five criteria in `criteria.md`
+because I asked it to, and ran the training. I committed the criteria before
+training, so they were set before any results existed.
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
