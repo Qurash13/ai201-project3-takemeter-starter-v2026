@@ -51,63 +51,41 @@ whether you hit them:
 
 ---
 
-## 1.
+## 1. Overall accuracy is at least 0.65 on the test split, on every seed.
 
-<!-- Your criterion. It must name a number. -->
-
-
-
-**Why this target:**
-
-
+**Why this target:** If the model always guessed `opinion` it would get about
+0.47, because that's 47% of my data. I want it clearly beating that, not just
+copying the biggest label.
 
 ---
 
-## 2.
+## 2. Macro F1 is at least 0.50 on every seed.
 
-<!-- Your criterion. -->
-
-
-
-**Why this target:**
-
-
+**Why this target:** Macro F1 counts my small labels the same as `opinion`.
+`quip` and `question` will only have about 7 posts each in test, so I set
+this lower than accuracy.
 
 ---
 
-## 3.
+## 3. F1 for `evidenced` is at least 0.60 on every seed.
 
-<!-- Your criterion. -->
-
-
-
-**Why this target:**
-
-
+**Why this target:** This is the label I care about most, since it finds the
+comments that bring proof. It has 63 examples, about 10 in test, so I expect
+it to be learnable but not easy.
 
 ---
 
-## 4.
+## 4. Every label has an F1 of at least 0.30 on every seed.
 
-<!-- Your criterion. -->
-
-
-
-**Why this target:**
-
-
+**Why this target:** I don't want any label ignored. 0.30 is low on purpose,
+because with about 6 `question` posts in test, one mistake moves F1 a lot.
 
 ---
 
-## 5.
+## 5. Accuracy on the most-confident third of test posts is at least 0.15 higher than on the least-confident third, on every seed.
 
-<!-- Your criterion. -->
-
-
-
-**Why this target:**
-
-
+**Why this target:** If the model is sure, it should be right more often.
+If the two thirds score about the same, its confidence means nothing.
 
 ---
 
