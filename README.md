@@ -488,25 +488,49 @@ its authors did.
 
 ## The Improvement
 
-**What I changed:**
+**What I changed:** One thing: learning rate **2e-5 → 5e-5**. Same data,
+same labels, same 3 epochs, same three seeds, still on CPU.
 
-**Which diagnosis pointed at it:**
+**Which diagnosis pointed at it:** My diagnosis said the model undertrained:
+it predicted only `opinion`, and the loss barely dropped. A higher learning
+rate lets the same 39 steps actually move the model. I picked this over more
+epochs because 10 epochs would have taken about 90 minutes on this CPU.
 
 ### Run Log — After
 
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
-| 1.  |  |  |  |  |  |
-| 2.  |  |  |  |  |  |
-| 3.  |  |  |  |  |  |
-| 4.  |  |  |  |  |  |
-| 5.  |  |  |  |  |  |
+| 1. Overall accuracy | ≥ 0.65 | 0.605 | 0.628 | 0.558 | MISSED |
+| 2. Macro F1 | ≥ 0.50 | 0.503 | 0.574 | 0.323 | MISSED |
+| 3. F1 — `evidenced` | ≥ 0.60 | 0.286 | 0.375 | 0.625 | MISSED |
+| 4. Lowest per-label F1 | ≥ 0.30 | 0.250 | 0.375 | 0.000 | MISSED |
+| 5. Confident third minus unsure third (accuracy) | ≥ 0.15 | 0.286 | -0.071 | 0.571 | MISSED |
+
+Confusion matrix after, seed 42:
+
+| true \ predicted | evidenced | opinion | quip | question |
+|---|---|---|---|---|
+| **evidenced** | 2 | 8 | 0 | 0 |
+| **opinion** | 1 | 18 | 0 | 1 |
+| **quip** | 0 | 5 | 1 | 1 |
+| **question** | 1 | 0 | 0 | 5 |
 
 **Did it help, and how do I know:**
 
 <!-- If it didn't, say so. Relabelling that didn't help is a genuinely
      interesting result and earns full credit. -->
 
+Yes, a lot, but not enough to meet any criterion. Accuracy went from 0.465
+on every seed to 0.56–0.63. Macro F1 went from 0.159 to 0.32–0.57. The model
+now predicts all four labels, and `question` reached 0.77 F1 on two seeds.
+Seeds 42 and 7 now beat the baseline on macro F1 (0.503 and 0.574 vs. 0.273).
+
+But every criterion is still MISSED. Criterion 5 went from MET to MISSED:
+once the model started making real guesses, seed 7's confident predictions
+were slightly *worse* than its unsure ones. The spread also grew, from 0.000
+to 0.070 in accuracy and 0.251 in macro F1. Seed 2024 never predicted `quip`
+or `question` at all. So the fix worked on the cause I named, but the result
+depends heavily on the split.
 
 
 ---
@@ -515,12 +539,35 @@ its authors did.
 
 <!-- For each criterion still missed: what you'd do, and why you stopped. -->
 
+- **1. Accuracy (0.56–0.63, target 0.65):** Close. I'd train for more
+  epochs at the new learning rate. I stopped because each run on CPU takes
+  about 30 minutes, and the course allows one change.
+- **2. Macro F1 (seed 2024 at 0.323):** One bad seed sinks it. Seed 2024
+  missed `quip` and `question` entirely. I'd add about 30 more examples of
+  each, so the model sees them in every split.
+- **3. `evidenced` F1 (0.29–0.63):** The model still sends most `evidenced`
+  posts to `opinion` (8 of 10 on seed 42). I'd add more `evidenced` examples
+  and check whether my rule about "a concrete technical fact" was applied the
+  same way across all 63.
+- **4. Lowest per-label F1 (0.000 on seed 2024):** Same cause as 2. Only 6–7
+  test posts per thin label, so a seed can miss them all.
+- **5. Confidence gap (-0.071 on seed 7):** With 14 posts per third, a few
+  posts swing this. More test data would make it measurable. I stopped
+  because more data is a second change.
+
+I stopped because I'd made my one allowed change and measured it.
 
 
 **The gap between what I meant my labels to capture and what the model
 learned:**
 <!-- Two sentences. Your confusion matrix is the evidence. -->
 
+I meant `evidenced` to catch any comment that backs its point with something
+checkable, but the model mostly learned "long and serious = `opinion`", and
+sent 8 of 10 `evidenced` posts there. It learned `question` well because
+questions have an obvious surface cue (a `?`), but evidence in HN comments
+is often a link, a number or a technical detail buried in a normal-looking
+sentence, and 43 examples weren't enough to teach that.
 
 
 <!-- ═════════════════════════════════════════════════════════════════════
