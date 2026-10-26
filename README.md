@@ -299,6 +299,11 @@ I'll dig into why next unit.
 <!-- Milestone 1 asks you to write this BEFORE seeing the trained numbers. A
      prediction made afterwards isn't one. -->
 
+I think my trained model will only beat the baseline on `opinion`, because
+in unit 5 it mostly guessed `opinion`. I think the baseline will do better on
+`question`, since questions are easy to spot from the definition alone.
+(Written before running `baseline.py`.)
+
 **What the gap actually means:**
 <!-- If the baseline matched your trained model, your fine-tuning added
      nothing — and that is a real finding, not a failure. Say it plainly. -->
