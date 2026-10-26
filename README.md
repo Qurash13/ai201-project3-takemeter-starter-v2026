@@ -336,28 +336,43 @@ version reported in the table above is the one with definitions.
 
 | Criterion | Target | Seed 42 | Seed 7 | Seed 2024 | Verdict |
 |---|---|---|---|---|---|
-| 1.  |  |  |  |  |  |
-| 2.  |  |  |  |  |  |
-| 3.  |  |  |  |  |  |
-| 4.  |  |  |  |  |  |
-| 5.  |  |  |  |  |  |
+| 1. Overall accuracy | ≥ 0.65 | 0.465 | 0.465 | 0.465 | MISSED |
+| 2. Macro F1 | ≥ 0.50 | 0.159 | 0.159 | 0.159 | MISSED |
+| 3. F1 — `evidenced` | ≥ 0.60 | 0.000 | 0.000 | 0.000 | MISSED |
+| 4. Lowest per-label F1 | ≥ 0.30 | 0.000 | 0.000 | 0.000 | MISSED |
+| 5. Confident third minus unsure third (accuracy) | ≥ 0.15 | 0.571 | 0.500 | 0.786 | MET |
+
+Device: **CPU** (codespace, torch 2.14.1+cpu). 3 epochs, lr 2e-5, batch 16.
+I ran each seed in its own process, with the same notebook code. Running
+all three in one process ran this codespace out of memory at seed 7.
+
+The spread is 0.000 on every measure. That isn't a stable model, it's a
+stuck one. It predicted `opinion` for every test post on all three seeds.
+The split is stratified, so every seed's test set has 10/20/7/6 posts, and
+"always `opinion`" scores the same each time.
 
 ### Confusion matrix
 
 <!-- ⚠️ TYPED AS A MARKDOWN TABLE. The notebook prints one ready to paste.
      An image of a matrix earns nothing. -->
 
-| true \ predicted |  |  |  |
-|---|---|---|---|
-| **** |  |  |  |
-| **** |  |  |  |
-| **** |  |  |  |
+Seed 42 (seeds 7 and 2024 are identical):
+
+| true \ predicted | evidenced | opinion | quip | question |
+|---|---|---|---|---|
+| **evidenced** | 0 | 10 | 0 | 0 |
+| **opinion** | 0 | 20 | 0 | 0 |
+| **quip** | 0 | 7 | 0 | 0 |
+| **question** | 0 | 6 | 0 | 0 |
 
 **My biggest off-diagonal number, and what it means:**
 <!-- Not "the model made mistakes" — WHICH boundary it didn't learn, and which
      direction. "7 real analysis posts were called hot_take and only 3 went the
      other way" is a direction, not just an error rate. -->
 
+All 10 real `evidenced` posts were called `opinion`, and 0 went the other
+way. The model never learned the `evidenced`/`opinion` boundary, or any
+boundary. Every column except `opinion` is empty.
 
 
 ---
@@ -369,11 +384,11 @@ version reported in the table above is the one with definitions.
 
 | # | Criterion | Target | Verdict | How I decided |
 |---|---|---|---|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
+| 1 | Overall accuracy | ≥ 0.65 | MISSED | 0.465 on all three seeds |
+| 2 | Macro F1 | ≥ 0.50 | MISSED | 0.159 on all three seeds |
+| 3 | F1 — `evidenced` | ≥ 0.60 | MISSED | 0.000 on all three seeds |
+| 4 | Every label F1 | ≥ 0.30 | MISSED | Three labels at 0.000 on every seed |
+| 5 | Confidence gap | ≥ 0.15 | MET | 0.571, 0.500, 0.786, all above 0.15. But see below: it's a hollow pass |
 
 **Diagnoses**
 
@@ -386,6 +401,30 @@ version reported in the table above is the one with definitions.
      have that can tell a LABELLING problem from a MODEL problem, and this
      section is graded on whether you used it that way. -->
 
+**Criteria 1–4: one cause. The model didn't train enough, so it collapsed
+to my biggest label.**
+
+How I know:
+- **It predicts one label for everything.** The matrix has one column.
+  That's not a confused boundary. Nothing was learned.
+- **The loss barely moved.** Validation loss ended at 1.11. Pure guessing
+  over 4 labels is about 1.39. With 200 training posts and batch 16, 3
+  epochs is only 39 update steps at a small learning rate.
+- **The labels aren't the problem.** My agreement check was 30/30, so I can
+  apply a written rule the way its authors did. That's not full proof about
+  my own 286, but it argues against messy labelling as the main cause.
+- **The signal is there.** The zero-shot baseline, using only my
+  definitions, got `question` F1 0.63 and `evidenced` F1 0.37. So these
+  labels can be told apart from the text. My model just didn't get there.
+
+So this is a training problem, not a labelling problem. Secondary cause:
+`quip` (7) and `question` (6) are thin in test, so even a working model
+would have jumpy scores on them.
+
+**Criterion 5: MET, but hollow.** Every prediction is `opinion`, so
+"confidence" only measures how opinion-like a post looks. The most confident
+third is mostly real `opinion` posts, so it scores well. It passes the
+number I set, but it doesn't show the model's confidence is useful.
 
 
 ---
